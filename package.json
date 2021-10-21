@@ -6,6 +6,8 @@
     "start": "node ./bin/www",
     "createGraduatesTable": "node -r dotenv/config ./db/scripts/createGraduatesTable.js",
     "dropGraduatesTable": "node -r dotenv/config ./db/scripts/dropGraduatesTable.js", 
+    "populateGraduatesTable": "node -r dotenv/config ./db/scripts/populateGraduatesTable.js",
+    "resetGraduatesTable": "npm run dropGraduatesTable && npm run createGraduatesTable && npm run populateGraduatesTable", 
     "createResponsesTable":  "node -r dotenv/config ./db/scripts/createResponsesTable.js",
     "dropResponsesTable": "node -r dotenv/config ./db/scripts/dropResponsesTable.js"
   },
