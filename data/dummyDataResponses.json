@@ -8,7 +8,7 @@
     "currentSalary": 18000,
     "currentEmployer": "Gymshark",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -21,7 +21,7 @@
     "currentSalary": 22000,
     "currentEmployer": "RWG",
     "lengthOfService": "3-6 months",
-    "current Role": "developer",
+    "currentRole": "developer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -34,7 +34,7 @@
     "currentSalary": 22000,
     "currentEmployer": "RWG",
     "lengthOfService": "0-3 months",
-    "current Role": "developer",
+    "currentRole": "developer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -47,7 +47,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -60,7 +60,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Natwest",
     "lengthOfService": "3-6 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -73,7 +73,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Natwest",
     "lengthOfService": "0-3 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -86,7 +86,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Natwest",
     "lengthOfService": "0-3 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -99,7 +99,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Natwest",
     "lengthOfService": "6-12 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -112,7 +112,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Natwest",
     "lengthOfService": "6-12 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -125,7 +125,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -138,7 +138,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -151,7 +151,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -164,7 +164,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -177,7 +177,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -190,7 +190,7 @@
     "currentSalary": 28000,
     "currentEmployer": "CodeBook",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -203,7 +203,7 @@
     "currentSalary": 35000,
     "currentEmployer": "GymShark",
     "lengthOfService": "18-24 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -216,7 +216,7 @@
     "currentSalary": 35000,
     "currentEmployer": "GymShark",
     "lengthOfService": "12-18 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -229,7 +229,7 @@
     "currentSalary": 35000,
     "currentEmployer": "GymShark",
     "lengthOfService": "12-18 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -242,7 +242,7 @@
     "currentSalary": 35000,
     "currentEmployer": "GymShark",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -255,7 +255,7 @@
     "currentSalary": 35000,
     "currentEmployer": "GymShark",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -268,7 +268,7 @@
     "currentSalary": 24000,
     "currentEmployer": "GymShark",
     "lengthOfService": "3-6 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -281,7 +281,7 @@
     "currentSalary": 24000,
     "currentEmployer": "GymShark",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -294,7 +294,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "18-24 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -307,7 +307,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "0-3 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -320,7 +320,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "0-3 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -333,7 +333,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -346,7 +346,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -359,7 +359,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -372,7 +372,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -385,7 +385,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "18-24 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -398,7 +398,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "12-18 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -411,7 +411,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "12-18 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -424,7 +424,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -437,7 +437,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -450,7 +450,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -463,7 +463,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -476,7 +476,7 @@
     "currentSalary": 43000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "18-24 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -489,7 +489,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -502,7 +502,7 @@
     "currentSalary": 40000,
     "currentEmployer": "OAG",
     "lengthOfService": "18-24 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -515,7 +515,7 @@
     "currentSalary": 40000,
     "currentEmployer": "OAG",
     "lengthOfService": "12-18 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -528,7 +528,7 @@
     "currentSalary": 40000,
     "currentEmployer": "OAG",
     "lengthOfService": "12-18 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -541,7 +541,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "6-12 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -554,7 +554,7 @@
     "currentSalary": 40000,
     "currentEmployer": "OAG",
     "lengthOfService": "6-12 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -567,7 +567,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -580,7 +580,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -593,7 +593,7 @@
     "currentSalary": 24000,
     "currentEmployer": "JLR",
     "lengthOfService": "0-3 months",
-    "current Role": "Assistant Project Manager",
+    "currentRole": "Assistant Project Manager",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -606,7 +606,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior full stack developer",
+    "currentRole": "Junior full stack developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -619,7 +619,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "3-6 months",
-    "current Role": "UI",
+    "currentRole": "UI",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -632,7 +632,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UI",
+    "currentRole": "UI",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -645,7 +645,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "UI Designer",
+    "currentRole": "UI Designer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -658,7 +658,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "UI Designer",
+    "currentRole": "UI Designer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -671,7 +671,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "User research",
+    "currentRole": "User research",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -684,7 +684,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "18-24 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -697,7 +697,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "12-18 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -710,7 +710,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "12-18 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -723,7 +723,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -736,7 +736,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -749,7 +749,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "3-6 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -762,7 +762,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -775,7 +775,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -788,7 +788,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -801,7 +801,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -814,7 +814,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -827,7 +827,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -840,7 +840,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "3-6 months",
-    "current Role": "User experience",
+    "currentRole": "User experience",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -853,7 +853,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -866,7 +866,7 @@
     "currentSalary": 43000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "18-24 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -879,7 +879,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -892,7 +892,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "UI Designer",
+    "currentRole": "UI Designer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -905,7 +905,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Wise",
     "lengthOfService": "3-6 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -918,7 +918,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -931,7 +931,7 @@
     "currentSalary": 23000,
     "currentEmployer": "JLR",
     "lengthOfService": "3-6 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -944,7 +944,7 @@
     "currentSalary": 23000,
     "currentEmployer": "JLR",
     "lengthOfService": "0-3 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -957,7 +957,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -970,7 +970,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -983,7 +983,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "3-6 months",
-    "current Role": "UX",
+    "currentRole": "UX",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -996,7 +996,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UX",
+    "currentRole": "UX",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -1009,7 +1009,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Gymshark",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -1022,7 +1022,7 @@
     "currentSalary": 18000,
     "currentEmployer": "Gymshark",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -1035,7 +1035,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1048,7 +1048,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1061,7 +1061,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 1
   },
@@ -1074,7 +1074,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 5
   },
@@ -1087,7 +1087,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1100,7 +1100,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1113,7 +1113,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1126,7 +1126,7 @@
     "currentSalary": 26000,
     "currentEmployer": "HMG",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1139,7 +1139,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1152,7 +1152,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -1165,7 +1165,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -1178,7 +1178,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -1191,7 +1191,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Talis",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1204,7 +1204,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1217,7 +1217,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Talis",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 1
   },
@@ -1230,7 +1230,7 @@
     "currentSalary": 23500,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -1243,7 +1243,7 @@
     "currentSalary": 24000,
     "currentEmployer": "JLR",
     "lengthOfService": "0-3 months",
-    "current Role": "Assistant Project Manager",
+    "currentRole": "Assistant Project Manager",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -1256,7 +1256,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "User research",
+    "currentRole": "User research",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -1269,7 +1269,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "User research",
+    "currentRole": "User research",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -1282,7 +1282,7 @@
     "currentSalary": 26000,
     "currentEmployer": "The Economist",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1295,7 +1295,7 @@
     "currentSalary": 26000,
     "currentEmployer": "HMG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1308,7 +1308,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Talis",
     "lengthOfService": "3-6 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -1321,7 +1321,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -1334,7 +1334,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Talis",
     "lengthOfService": "12-18 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -1347,7 +1347,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -1360,7 +1360,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Talis",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1373,7 +1373,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Talis",
     "lengthOfService": "3-6 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 1
   },
@@ -1386,7 +1386,7 @@
     "currentSalary": 23500,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -1399,7 +1399,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UX",
+    "currentRole": "UX",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -1412,7 +1412,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UX",
+    "currentRole": "UX",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -1425,7 +1425,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Natwest",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Product Owner",
+    "currentRole": "Junior Product Owner",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -1438,7 +1438,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -1451,7 +1451,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -1464,7 +1464,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1477,7 +1477,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 1
   },
@@ -1490,7 +1490,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1503,7 +1503,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "3-6 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 1
   },
@@ -1516,7 +1516,7 @@
     "currentSalary": 28000,
     "currentEmployer": "DRP",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Tester",
+    "currentRole": "QA Tester",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 5
   },
@@ -1529,7 +1529,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "Data scientist",
+    "currentRole": "Data scientist",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -1542,7 +1542,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Data scientist",
+    "currentRole": "Data scientist",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -1555,7 +1555,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior full stack developer",
+    "currentRole": "Junior full stack developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -1568,7 +1568,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior full stack developer",
+    "currentRole": "Junior full stack developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -1581,7 +1581,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1594,7 +1594,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "3-6 months",
-    "current Role": "Developer",
+    "currentRole": "Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 3
   },
@@ -1607,7 +1607,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 3
   },
@@ -1620,7 +1620,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -1633,7 +1633,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 3
   },
@@ -1646,7 +1646,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 2
   },
@@ -1659,7 +1659,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -1672,7 +1672,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1685,7 +1685,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1698,7 +1698,7 @@
     "currentSalary": 24500,
     "currentEmployer": "TopStack",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1711,7 +1711,7 @@
     "currentSalary": 24500,
     "currentEmployer": "TopStack",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -1724,7 +1724,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "User research",
+    "currentRole": "User research",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -1737,7 +1737,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "User research",
+    "currentRole": "User research",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -1750,7 +1750,7 @@
     "currentSalary": 25000,
     "currentEmployer": "GymShark",
     "lengthOfService": "18-24 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -1763,7 +1763,7 @@
     "currentSalary": 25000,
     "currentEmployer": "GymShark",
     "lengthOfService": "12-18 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -1776,7 +1776,7 @@
     "currentSalary": 25000,
     "currentEmployer": "GymShark",
     "lengthOfService": "12-18 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -1789,7 +1789,7 @@
     "currentSalary": 25000,
     "currentEmployer": "GymShark",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -1802,7 +1802,7 @@
     "currentSalary": 25000,
     "currentEmployer": "GymShark",
     "lengthOfService": "6-12 months",
-    "current Role": "Frontend Developer",
+    "currentRole": "Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -1815,7 +1815,7 @@
     "currentSalary": 24000,
     "currentEmployer": "GymShark",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -1828,7 +1828,7 @@
     "currentSalary": 24000,
     "currentEmployer": "GymShark",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Frontend Developer",
+    "currentRole": "Junior Frontend Developer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -1841,7 +1841,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1854,7 +1854,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 3
   },
@@ -1867,7 +1867,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 2
   },
@@ -1880,7 +1880,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 5
   },
@@ -1893,7 +1893,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1906,7 +1906,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1919,7 +1919,7 @@
     "currentSalary": 26000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -1932,7 +1932,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Sainsbury's",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior dev",
+    "currentRole": "Junior dev",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -1945,7 +1945,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1958,7 +1958,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1971,7 +1971,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1984,7 +1984,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -1997,7 +1997,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Natwest",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Product Owner",
+    "currentRole": "Junior Product Owner",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -2010,7 +2010,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Natwest",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Product Owner",
+    "currentRole": "Junior Product Owner",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -2023,7 +2023,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Sainsbury's",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior dev",
+    "currentRole": "Junior dev",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2036,7 +2036,7 @@
     "currentSalary": 35000,
     "currentEmployer": "The Economist",
     "lengthOfService": "3-6 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -2049,7 +2049,7 @@
     "currentSalary": 35000,
     "currentEmployer": "The Economist",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -2062,7 +2062,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 3
   },
@@ -2075,7 +2075,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2088,7 +2088,7 @@
     "currentSalary": 32000,
     "currentEmployer": "The Economist",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -2101,7 +2101,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 1
   },
@@ -2114,7 +2114,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2127,7 +2127,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2140,7 +2140,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "3-6 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2153,7 +2153,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2166,7 +2166,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 1
   },
@@ -2179,7 +2179,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 1
   },
@@ -2192,7 +2192,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 4
   },
@@ -2205,7 +2205,7 @@
     "currentSalary": 27000,
     "currentEmployer": "Santander",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -2218,7 +2218,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2231,7 +2231,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -2244,7 +2244,7 @@
     "currentSalary": 24500,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2257,7 +2257,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Data scientist",
+    "currentRole": "Data scientist",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -2270,7 +2270,7 @@
     "currentSalary": 23000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior full stack developer",
+    "currentRole": "Junior full stack developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -2283,7 +2283,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2296,7 +2296,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2309,7 +2309,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "UI",
+    "currentRole": "UI",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2322,7 +2322,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UI",
+    "currentRole": "UI",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2335,7 +2335,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2348,7 +2348,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Wise",
     "lengthOfService": "18-24 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -2361,7 +2361,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2374,7 +2374,7 @@
     "currentSalary": 30000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 1
   },
@@ -2387,7 +2387,7 @@
     "currentSalary": 30000,
     "currentEmployer": "Santander",
     "lengthOfService": "12-18 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 1
   },
@@ -2400,7 +2400,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "12-18 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 3
   },
@@ -2413,7 +2413,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2426,7 +2426,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "6-12 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2439,7 +2439,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 1
   },
@@ -2452,7 +2452,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "QA Engineer",
+    "currentRole": "QA Engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -2465,7 +2465,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "3-6 months",
-    "current Role": "User experience",
+    "currentRole": "User experience",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2478,7 +2478,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "User experience",
+    "currentRole": "User experience",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2491,7 +2491,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Sainsbury's",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior dev",
+    "currentRole": "Junior dev",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2504,7 +2504,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Sainsbury's",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior dev",
+    "currentRole": "Junior dev",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2517,7 +2517,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Natwest",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Product Owner",
+    "currentRole": "Junior Product Owner",
     "currentTechStack": ["Node","React","Redis","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -2530,7 +2530,7 @@
     "currentSalary": 26000,
     "currentEmployer": "HMG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2543,7 +2543,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -2556,7 +2556,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "3-6 months",
-    "current Role": "UI Designer",
+    "currentRole": "UI Designer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -2569,7 +2569,7 @@
     "currentSalary": 25000,
     "currentEmployer": "OAG",
     "lengthOfService": "0-3 months",
-    "current Role": "UI Designer",
+    "currentRole": "UI Designer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 3
   },
@@ -2582,7 +2582,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Sainsbury's",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior dev",
+    "currentRole": "Junior dev",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2595,7 +2595,7 @@
     "currentSalary": 18000,
     "currentEmployer": "Gymshark",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 2
   },
@@ -2608,7 +2608,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2621,7 +2621,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "Developer",
+    "currentRole": "Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2634,7 +2634,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Developer",
+    "currentRole": "Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2647,7 +2647,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "12-18 months",
-    "current Role": "Developer",
+    "currentRole": "Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 5
   },
@@ -2660,7 +2660,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2673,7 +2673,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "6-12 months",
-    "current Role": "Developer",
+    "currentRole": "Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2686,7 +2686,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2699,7 +2699,7 @@
     "currentSalary": 24500,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Developer",
+    "currentRole": "Junior Developer",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2712,7 +2712,7 @@
     "currentSalary": 24000,
     "currentEmployer": "JLR",
     "lengthOfService": "3-6 months",
-    "current Role": "Assistant Project Manager",
+    "currentRole": "Assistant Project Manager",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2725,7 +2725,7 @@
     "currentSalary": 24000,
     "currentEmployer": "JLR",
     "lengthOfService": "0-3 months",
-    "current Role": "Assistant Project Manager",
+    "currentRole": "Assistant Project Manager",
     "currentTechStack": ["SQL","JavaScript","AWS","MongoDB","jQuery","mySQL","Azure",".NET"],
     "jobSatisfaction": 2
   },
@@ -2738,7 +2738,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2751,7 +2751,7 @@
     "currentSalary": 26000,
     "currentEmployer": "HMG",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2764,7 +2764,7 @@
     "currentSalary": 26000,
     "currentEmployer": "HMG",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2777,7 +2777,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UX",
+    "currentRole": "UX",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 5
   },
@@ -2790,7 +2790,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2803,7 +2803,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2816,7 +2816,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -2829,7 +2829,7 @@
     "currentSalary": 28000,
     "currentEmployer": "CodeBook",
     "lengthOfService": "3-6 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -2842,7 +2842,7 @@
     "currentSalary": 28000,
     "currentEmployer": "CodeBook",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -2855,7 +2855,7 @@
     "currentSalary": 24000,
     "currentEmployer": "ROS",
     "lengthOfService": "3-6 months",
-    "current Role": "developer",
+    "currentRole": "developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 2
   },
@@ -2868,7 +2868,7 @@
     "currentSalary": 24000,
     "currentEmployer": "ROS",
     "lengthOfService": "0-3 months",
-    "current Role": "developer",
+    "currentRole": "developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 2
   },
@@ -2881,7 +2881,7 @@
     "currentSalary": 29000,
     "currentEmployer": "Purple Bricks",
     "lengthOfService": "3-6 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2894,7 +2894,7 @@
     "currentSalary": 29000,
     "currentEmployer": "Purple Bricks",
     "lengthOfService": "0-3 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -2907,7 +2907,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Morgan Stanley",
     "lengthOfService": "3-6 months",
-    "current Role": "junior backend developer",
+    "currentRole": "junior backend developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2920,7 +2920,7 @@
     "currentSalary": 22000,
     "currentEmployer": "Morgan Stanley",
     "lengthOfService": "0-3 months",
-    "current Role": "junior backend developer",
+    "currentRole": "junior backend developer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2933,7 +2933,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Talis",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior back end engineer",
+    "currentRole": "Junior back end engineer",
     "currentTechStack": ["Jest","Javascript","Node","SQL"],
     "jobSatisfaction": 4
   },
@@ -2946,7 +2946,7 @@
     "currentSalary": 24000,
     "currentEmployer": "Bravissimo",
     "lengthOfService": "0-3 months",
-    "current Role": "UI",
+    "currentRole": "UI",
     "currentTechStack": ["Java","Redis","APIGateway","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -2959,7 +2959,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "3-6 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 3
   },
@@ -2972,7 +2972,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 3
   },
@@ -2985,7 +2985,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -2998,7 +2998,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 3
   },
@@ -3011,7 +3011,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -3024,7 +3024,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 1
   },
@@ -3037,7 +3037,7 @@
     "currentSalary": 23000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -3050,7 +3050,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Wise",
     "lengthOfService": "18-24 months",
-    "current Role": "Backend Developer",
+    "currentRole": "Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3063,7 +3063,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Wise",
     "lengthOfService": "12-18 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3076,7 +3076,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Wise",
     "lengthOfService": "12-18 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3089,7 +3089,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 1
   },
@@ -3102,7 +3102,7 @@
     "currentSalary": 43000,
     "currentEmployer": "Wise",
     "lengthOfService": "6-12 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -3115,7 +3115,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Wise",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -3128,7 +3128,7 @@
     "currentSalary": 23000,
     "currentEmployer": "Wise",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Backend Developer",
+    "currentRole": "Junior Backend Developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3141,7 +3141,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 2
   },
@@ -3154,7 +3154,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 2
   },
@@ -3167,7 +3167,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": 5
   },
@@ -3180,7 +3180,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3193,7 +3193,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3206,7 +3206,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3219,7 +3219,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3232,7 +3232,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "3-6 months",
-    "current Role": "Data scientist",
+    "currentRole": "Data scientist",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3245,7 +3245,7 @@
     "currentSalary": 35000,
     "currentEmployer": "Santander",
     "lengthOfService": "0-3 months",
-    "current Role": "Data scientist",
+    "currentRole": "Data scientist",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 4
   },
@@ -3258,7 +3258,7 @@
     "currentSalary": 28000,
     "currentEmployer": "Purple Bricks",
     "lengthOfService": "3-6 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 3
   },
@@ -3271,7 +3271,7 @@
     "currentSalary": 25000,
     "currentEmployer": "Purple Bricks",
     "lengthOfService": "0-3 months",
-    "current Role": "junior front end developer",
+    "currentRole": "junior front end developer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 3
   },
@@ -3284,7 +3284,7 @@
     "currentSalary": 28000,
     "currentEmployer": "CodeBook",
     "lengthOfService": "0-3 months",
-    "current Role": "Front end engineer",
+    "currentRole": "Front end engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node"],
     "jobSatisfaction": 5
   },
@@ -3297,7 +3297,7 @@
     "currentSalary": 24500,
     "currentEmployer": "TopStack",
     "lengthOfService": "3-6 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -3310,7 +3310,7 @@
     "currentSalary": 24500,
     "currentEmployer": "TopStack",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -3323,7 +3323,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3336,7 +3336,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3349,7 +3349,7 @@
     "currentSalary": 24500,
     "currentEmployer": "TopStack",
     "lengthOfService": "0-3 months",
-    "current Role": "QA engineer",
+    "currentRole": "QA engineer",
     "currentTechStack": ["SQL","JavaScript","TypeScript","Java","Node","React","Redis","AWS","MongoDB"],
     "jobSatisfaction": 4
   },
@@ -3362,7 +3362,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3375,7 +3375,7 @@
     "currentSalary": null,
     "currentEmployer": "",
     "lengthOfService": "",
-    "current Role": "",
+    "currentRole": "",
     "currentTechStack": "",
     "jobSatisfaction": null
   },
@@ -3388,7 +3388,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "18-24 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -3401,7 +3401,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "12-18 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -3414,7 +3414,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "12-18 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 1
   },
@@ -3427,7 +3427,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   },
@@ -3440,7 +3440,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "6-12 months",
-    "current Role": "Software Developer",
+    "currentRole": "Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -3453,7 +3453,7 @@
     "currentSalary": 30000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "3-6 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 4
   },
@@ -3466,7 +3466,7 @@
     "currentSalary": 26000,
     "currentEmployer": "ClickTravel",
     "lengthOfService": "0-3 months",
-    "current Role": "Junior Software Developer",
+    "currentRole": "Junior Software Developer",
     "currentTechStack": ["SQL","JavaScript","mySQL","Azure",".NET"],
     "jobSatisfaction": 3
   }
