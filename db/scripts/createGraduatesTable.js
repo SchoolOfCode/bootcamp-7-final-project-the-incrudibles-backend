@@ -1,10 +1,12 @@
 const { query } = require("../index"); //importing query
 
 async function createGraduatesTable() {
-  const response = query(
-    "CREATE TABLE graduates (id SERIAL PRIMARY KEY, graduateUuid TEXT, graduateName TEXT, graduateEmail TEXT, cohort INTEGER)"
+  await query('CREATE EXTENSION IF NOT EXISTS "uuid-ossp";');
+  await query(
+    "CREATE TABLE graduates (id UUID PRIMARY KEY DEFAULT uuid_generate_v4(), graduateName VARCHAR(255), graduateEmail VARCHAR(255), cohort SMALLINT)"
   );
   console.log("graduates table has been created");
   return;
 }
+
 createGraduatesTable();
