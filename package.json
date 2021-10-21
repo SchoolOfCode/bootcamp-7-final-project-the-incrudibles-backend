@@ -3,11 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "node ./bin/www",
+    "createGraduatesTable": "node -r dotenv/config ./db/scripts/createGraduatesTable.js",
+    "dropGraduatesTable": "node -r dotenv/config ./db/scripts/dropGraduatesTable.js", 
+    "createResponsesTable":  "node -r dotenv/config ./db/scripts/createResponsesTable.js",
+    "dropResponsesTable": "node -r dotenv/config ./db/scripts/dropResponsesTable.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
