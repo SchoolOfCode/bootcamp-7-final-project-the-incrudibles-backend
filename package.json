@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "createGraduatesTable": "node -r dotenv/config ./db/scripts/createGraduatesTable.js"
+    "createGraduatesTable": "node -r dotenv/config ./db/scripts/createGraduatesTable.js",
+    "dropGraduatesTable": "node -r dotenv/config ./db/scripts/dropGraduatesTable.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
