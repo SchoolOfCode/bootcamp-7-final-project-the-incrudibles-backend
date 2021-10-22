@@ -178,7 +178,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -360,7 +360,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -373,7 +373,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -490,7 +490,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -763,7 +763,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -802,7 +802,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -815,7 +815,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -828,7 +828,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -854,7 +854,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -880,7 +880,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -958,7 +958,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -971,7 +971,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1036,7 +1036,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1049,7 +1049,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1062,7 +1062,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 1
   },
   {
@@ -1075,7 +1075,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 5
   },
   {
@@ -1088,7 +1088,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1101,7 +1101,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1114,7 +1114,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1140,7 +1140,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1153,7 +1153,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -1166,7 +1166,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -1179,7 +1179,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -1205,7 +1205,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1439,7 +1439,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -1452,7 +1452,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -1465,7 +1465,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1491,7 +1491,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1582,7 +1582,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1673,7 +1673,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1686,7 +1686,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1842,7 +1842,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1855,7 +1855,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 3
   },
   {
@@ -1868,7 +1868,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 2
   },
   {
@@ -1881,7 +1881,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 5
   },
   {
@@ -1894,7 +1894,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1907,7 +1907,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1946,7 +1946,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1959,7 +1959,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1972,7 +1972,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -1985,7 +1985,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2115,7 +2115,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2128,7 +2128,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2167,7 +2167,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 1
   },
   {
@@ -2180,7 +2180,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 1
   },
   {
@@ -2193,7 +2193,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 4
   },
   {
@@ -2219,7 +2219,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2284,7 +2284,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2297,7 +2297,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2362,7 +2362,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2739,7 +2739,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2791,7 +2791,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2804,7 +2804,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -2817,7 +2817,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3142,7 +3142,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 2
   },
   {
@@ -3155,7 +3155,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 2
   },
   {
@@ -3168,7 +3168,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": 5
   },
   {
@@ -3181,7 +3181,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3194,7 +3194,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3207,7 +3207,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3220,7 +3220,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3324,7 +3324,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3337,7 +3337,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3363,7 +3363,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
@@ -3376,7 +3376,7 @@
     "currentEmployer": "",
     "lengthOfService": "",
     "currentRole": "",
-    "currentTechStack": "",
+    "currentTechStack": [],
     "jobSatisfaction": null
   },
   {
