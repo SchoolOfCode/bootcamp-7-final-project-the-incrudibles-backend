@@ -10,9 +10,7 @@ async function deleteResponseById(uuid) {
 //function that takes in a response object, and creates a new response row in the DB
 async function postNewResponse(response) {
   const {
-    responseUuid,
     graduateUuid,
-    timestampUnix,
     isEmployed,
     techRole,
     currentSalery,
@@ -23,11 +21,9 @@ async function postNewResponse(response) {
     jobsatisfaction,
   } = response;
   const data = await query(
-    "INSERT INTO responses (responseUuid, graduateUuid, timestampUnix, isEmployed, techRole, currentSalery, currentEmployer, lengthOfService, currentRole, currentTechStack, jobsatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11) RETURNING *;",
+    "INSERT INTO responses (graduateUuid, isEmployed, techRole, currentSalary, currentEmployer, lengthOfService, currentRole, currentTechStack, jobsatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9) RETURNING *;",
     [
-      responseUuid,
       graduateUuid,
-      timestampUnix,
       isEmployed,
       techRole,
       currentSalery,
@@ -40,13 +36,19 @@ async function postNewResponse(response) {
   );
   return data.rows;
 }
-//function that takes in a graduateuuid, and returns all responses associtaed with that graduate
 
-async function getResponseById(graduateuuid) {
-  const data = await query("SELECT * FROM responses WHERE id = $1;", [
-    graduateuuid,
+//function that takes in a graduateuuid, and returns all responses associtaed with that graduate
+async function getResponseByGraduateId(uuid) {
+  const data = await query("SELECT * FROM responses WHERE graduateUuid = $1;", [
+    uuid,
   ]);
   return data.rows;
 }
 
 //function that returns all responses from the DB, as well as the associated graduate info
+
+module.exports = {
+  deleteResponseById,
+  postNewResponse,
+  getResponseByGraduateId,
+};
