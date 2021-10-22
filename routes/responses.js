@@ -1,11 +1,27 @@
 var express = require("express");
 var router = express.Router();
+const { getAllResponses, deleteResponseById } = require("../models/responses");
 
 /* GET all responses listing. */
-router.get("/", function(req, res, next) {
-  res.send("This is the responses router");
+router.get("/", async (req, res) => {
+  const data = await getAllResponses();
+  res.json({
+    success: true,
+    message: "Here are all the repsonses",
+    payload: data,
+  });
 });
 
 // GET response by param
+
+router.delete("/:id", async (req, res) => {
+  const { id } = req.params;
+  const data = await deleteResponseById(id);
+  res.json({
+    success: true,
+    message: `Response ${id} has been deleted form the database`,
+    payload: data,
+  });
+});
 
 module.exports = router;
