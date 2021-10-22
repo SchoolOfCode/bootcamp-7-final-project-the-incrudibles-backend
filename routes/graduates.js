@@ -9,7 +9,10 @@ const {
   updateGraduate,
 } = require("../models/graduates");
 
-const { getResponseByGraduateId } = require("../models/responses");
+const {
+  getResponseByGraduateId,
+  postNewResponse,
+} = require("../models/responses");
 
 router.get("/:id", async (req, res) => {
   console.log(req.params);

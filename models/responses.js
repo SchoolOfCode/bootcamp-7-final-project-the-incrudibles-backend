@@ -12,25 +12,25 @@ async function postNewResponse(response, graduateUuid) {
   const {
     isEmployed,
     techRole,
-    currentSalery,
+    currentSalary,
     currentEmployer,
     lengthOfService,
     currentRole,
     currentTechStack,
-    jobsatisfaction,
+    jobSatisfaction,
   } = response;
   const data = await query(
-    "INSERT INTO responses (graduateUuid, isEmployed, techRole, currentSalary, currentEmployer, lengthOfService, currentRole, currentTechStack, jobsatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9) RETURNING *;",
+    "INSERT INTO responses (graduateUuid, isEmployed, techRole, currentSalary, currentEmployer, lengthOfService, currentRole, currentTechStack, jobSatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9) RETURNING *;",
     [
       graduateUuid,
       isEmployed,
       techRole,
-      currentSalery,
+      currentSalary,
       currentEmployer,
       lengthOfService,
       currentRole,
       currentTechStack,
-      jobsatisfaction,
+      jobSatisfaction,
     ]
   );
   return data.rows;
