@@ -9,7 +9,10 @@
     "populateGraduatesTable": "node -r dotenv/config ./db/scripts/populateGraduatesTable.js",
     "resetGraduatesTable": "npm run dropGraduatesTable && npm run createGraduatesTable && npm run populateGraduatesTable",
     "createResponsesTable": "node -r dotenv/config ./db/scripts/createResponsesTable.js",
-    "dropResponsesTable": "node -r dotenv/config ./db/scripts/dropResponsesTable.js"
+    "dropResponsesTable": "node -r dotenv/config ./db/scripts/dropResponsesTable.js",
+    "populateResponsesTable": "node -r dotenv/config ./db/scripts/populateResponsesTable.js",
+    "resetResponsesTable": "npm run dropResponsesTable && npm run createResponsesTable && npm run populateResponsesTable"
+
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
