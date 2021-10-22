@@ -8,9 +8,8 @@ async function deleteResponseById(uuid) {
 }
 
 //function that takes in a response object, and creates a new response row in the DB
-async function postNewResponse(response) {
+async function postNewResponse(response, graduateUuid) {
   const {
-    graduateUuid,
     isEmployed,
     techRole,
     currentSalery,

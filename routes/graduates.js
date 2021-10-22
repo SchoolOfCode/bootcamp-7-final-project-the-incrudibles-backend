@@ -50,6 +50,17 @@ router.post("/", async (req, res) => {
   });
 });
 
+router.post("/:id/responses", async (req, res) => {
+  const response = req.body;
+  const id = req.params;
+  const data = await postNewResponse(response, id);
+  res.json({
+    success: true,
+    message: `Response added to the database`,
+    payload: data,
+  });
+});
+
 router.put("/:uuid", async (req, res) => {
   const { id } = req.params;
   const graduate = req.body;

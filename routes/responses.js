@@ -1,6 +1,10 @@
 var express = require("express");
 var router = express.Router();
-const { getAllResponses, deleteResponseById } = require("../models/responses");
+const {
+  getAllResponses,
+  deleteResponseById,
+  postNewResponse,
+} = require("../models/responses");
 
 /* GET all responses listing. */
 router.get("/", async (req, res) => {
@@ -20,6 +24,16 @@ router.delete("/:id", async (req, res) => {
   res.json({
     success: true,
     message: `Response ${id} has been deleted form the database`,
+    payload: data,
+  });
+});
+
+router.post("/:id", async (req, res) => {
+  const response = req.body;
+  const data = await postNewResponse(response);
+  res.json({
+    success: true,
+    message: `Response has been added to the database`,
     payload: data,
   });
 });
