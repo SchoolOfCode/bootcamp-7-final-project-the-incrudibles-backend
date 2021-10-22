@@ -2,8 +2,8 @@
 const { query } = require("../db/index");
 
 //function that takes in a uuid, and deletes all responses with that uuid
-async function deleteUuid(uuid) {
-  const data = await query("DELETE * FROM responses;");
+async function deleteResponseById(uuid) {
+  const data = await query("DELETE FROM responses WHERE id = $1;", [uuid]);
   return data.rows;
 }
 
@@ -23,7 +23,7 @@ async function postNewResponse(response) {
     jobsatisfaction,
   } = response;
   const data = await query(
-    "INSERT INTO response (responseUuid, graduateUuid, timestampUnix, isEmployed, techRole, currentSalery, currentEmployer, lengthOfService, currentRole, currentTechStack, jobsatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11) RETURNING *;",
+    "INSERT INTO responses (responseUuid, graduateUuid, timestampUnix, isEmployed, techRole, currentSalery, currentEmployer, lengthOfService, currentRole, currentTechStack, jobsatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11) RETURNING *;",
     [
       responseUuid,
       graduateUuid,
@@ -42,7 +42,7 @@ async function postNewResponse(response) {
 }
 //function that takes in a graduateuuid, and returns all responses associtaed with that graduate
 
-async function getAllResponses(graduateuuid) {
+async function getResponseById(graduateuuid) {
   const data = await query("SELECT * FROM responses WHERE id = $1;", [
     graduateuuid,
   ]);
