@@ -9,6 +9,8 @@ const {
   updateGraduate,
 } = require("../models/graduates");
 
+const { getResponseByGraduateId } = require("../models/responses");
+
 router.get("/:id", async (req, res) => {
   console.log(req.params);
   const { id } = req.params;
@@ -31,6 +33,7 @@ router.get("/", async (req, res) => {
 });
 
 router.delete("/:id", async (req, res) => {
+  console.log(req.params);
   const { id } = req.params;
   const data = await deleteGraduateByUuid(id);
   res.json({
@@ -52,7 +55,7 @@ router.post("/", async (req, res) => {
 
 router.post("/:id/responses", async (req, res) => {
   const response = req.body;
-  const id = req.params;
+  const { id } = req.params;
   const data = await postNewResponse(response, id);
   res.json({
     success: true,
@@ -62,11 +65,12 @@ router.post("/:id/responses", async (req, res) => {
 });
 
 router.get("/:id/responses", async (req, res) => {
-  const id = req.params;
-  const data = await postNewResponse(id);
+  console.log(req.params);
+  const { id } = req.params;
+  const data = await getResponseByGraduateId(id);
   res.json({
     success: true,
-    message: `Response added to the database`,
+    message: `Here are all responses for graduate ${id}`,
     payload: data,
   });
 });
