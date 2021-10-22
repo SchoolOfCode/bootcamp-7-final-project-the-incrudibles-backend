@@ -39,16 +39,25 @@ async function postNewResponse(response) {
 
 //function that takes in a graduateuuid, and returns all responses associtaed with that graduate
 async function getResponseByGraduateId(uuid) {
-  const data = await query("SELECT * FROM responses WHERE graduateUuid = $1;", [
-    uuid,
-  ]);
+  const data = await query(
+    "SELECT * FROM responses INNER JOIN graduates ON (responses.graduateuuid = graduates.id) WHERE graduateuuid = $1;",
+    [uuid]
+  );
   return data.rows;
 }
 
 //function that returns all responses from the DB, as well as the associated graduate info
+async function getAllResponses() {
+  const data = await query(
+    "SELECT * FROM responses INNER JOIN graduates ON (responses.graduateuuid = graduates.id)",
+    [uuid]
+  );
+  return data.rows;
+}
 
 module.exports = {
   deleteResponseById,
   postNewResponse,
   getResponseByGraduateId,
+  getAllResponses,
 };
