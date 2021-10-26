@@ -48,7 +48,7 @@ async function getResponseByGraduateId(uuid) {
 //function that returns all responses from the DB, as well as the associated graduate info
 async function getAllResponses() {
   const data = await query(
-    "SELECT * FROM responses INNER JOIN graduates ON (responses.graduateuuid = graduates.id);"
+    "SELECT g.id, g.graduatename, g.graduateemail, g.cohort, json_agg(r.*) as responses FROM graduates g INNER JOIN responses r ON (r.graduateuuid = g.id) GROUP BY g.id;"
   );
   return data.rows;
 }
