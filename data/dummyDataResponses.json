@@ -2,7 +2,7 @@
   {
     "id": "7f24759b-a98c-4998-9dbb-9b41b380dd8a",
     "graduateUuid": "03a527f5-33e8-45fa-a205-beacb223f3a4",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 18000,
@@ -15,7 +15,7 @@
   {
     "id": "0f64cc34-7658-4d61-967c-aa3a16047542",
     "graduateUuid": "05478b46-62c3-47ad-984d-90912844ff6d",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -28,7 +28,7 @@
   {
     "id": "465e5a6d-af19-4585-af47-47414290c5b1",
     "graduateUuid": "05478b46-62c3-47ad-984d-90912844ff6d",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -41,7 +41,7 @@
   {
     "id": "02ac348e-e42e-40ef-88d6-2104d8dadaae",
     "graduateUuid": "085daba3-6458-4226-a9f0-e6e876ec62df",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -54,7 +54,7 @@
   {
     "id": "f5adb722-437f-485a-88fe-667305b69ab5",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -67,7 +67,7 @@
   {
     "id": "cbf3738e-5935-42d6-b599-64a590400e9b",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -80,7 +80,7 @@
   {
     "id": "abed44c5-ae14-4998-8a1b-076152bac7d2",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -93,7 +93,7 @@
   {
     "id": "c38522ac-42b2-4c99-aa3d-4e60dd24807c",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -106,7 +106,7 @@
   {
     "id": "af883b7d-34fe-4072-9ff0-45223af874ab",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -119,7 +119,7 @@
   {
     "id": "713a0e9c-045f-498d-b056-cf127b138d57",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -132,7 +132,7 @@
   {
     "id": "9fed9869-9cd4-4044-8d55-4855eff271bc",
     "graduateUuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -145,7 +145,7 @@
   {
     "id": "5d961d9e-b70c-41c9-a844-0378dc4489e0",
     "graduateUuid": "0cb53116-3b00-417f-9acf-730ab093f814",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -158,7 +158,7 @@
   {
     "id": "3603b661-6509-452e-b85b-434fb1f5d2b0",
     "graduateUuid": "0cb53116-3b00-417f-9acf-730ab093f814",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -171,7 +171,7 @@
   {
     "id": "8aa96b2b-cb4a-46d0-892c-d17625f4e657",
     "graduateUuid": "0edce9bb-fa1c-46d9-a8e8-e9f2c3feade8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -184,7 +184,7 @@
   {
     "id": "cc04c779-2fb4-4d68-84f3-5cb57548ab4d",
     "graduateUuid": "122806b9-9421-4575-9793-e704eda37d90",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -197,7 +197,7 @@
   {
     "id": "ac5375fd-8a56-43cf-afe1-6576f44d4c6e",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -210,7 +210,7 @@
   {
     "id": "f9e5ea76-8d53-4941-9fbb-9f15702fdb0f",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -223,7 +223,7 @@
   {
     "id": "919259ec-70e5-463b-b54a-21d3519af2ce",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -236,7 +236,7 @@
   {
     "id": "8d81c15d-7afe-417d-b31b-dbc9ab7f4669",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -249,7 +249,7 @@
   {
     "id": "d435242f-af88-4b0a-9bd3-7a32a9714624",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -262,7 +262,7 @@
   {
     "id": "bcfda203-848b-4549-8e97-4134abd157cd",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -275,7 +275,7 @@
   {
     "id": "786c3b6e-7329-4047-b8d2-7b66f064f8ea",
     "graduateUuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -288,7 +288,7 @@
   {
     "id": "71dd2e10-e417-4337-af86-4bb4ecd8c772",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -301,7 +301,7 @@
   {
     "id": "fdf39faf-ac08-4ce6-ac52-17458e64ad0a",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -314,7 +314,7 @@
   {
     "id": "c8226266-183c-4b12-b287-8645e8cc6183",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -327,7 +327,7 @@
   {
     "id": "03d557a2-2372-4c1b-bb54-9b85aacaad45",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -340,7 +340,7 @@
   {
     "id": "dcf57a89-ac4e-47e2-9b73-c6151956397e",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -353,7 +353,7 @@
   {
     "id": "21ecfe62-4290-4f05-ab49-21dd2a15ccdb",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -366,7 +366,7 @@
   {
     "id": "88296538-da92-4e58-8327-e01fc92f8265",
     "graduateUuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -379,7 +379,7 @@
   {
     "id": "d736ae0f-06d5-4003-8592-ec3176d37f21",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -392,7 +392,7 @@
   {
     "id": "8fe7ae50-f636-4bc4-b2fc-f7f6e97fef3f",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -405,7 +405,7 @@
   {
     "id": "5406d3d5-4916-4138-97c3-b0d00b425b6f",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -418,7 +418,7 @@
   {
     "id": "615f20aa-b32f-4e47-9687-b3450e192659",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -431,7 +431,7 @@
   {
     "id": "017ff242-0f12-47b2-a101-70fdb71aff2f",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -444,7 +444,7 @@
   {
     "id": "0aef5c17-985f-4a6e-955f-709fe8990fa2",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -457,7 +457,7 @@
   {
     "id": "096d234f-46fb-4639-91fe-8040dfdca7a6",
     "graduateUuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -470,7 +470,7 @@
   {
     "id": "6ac0849e-c5ae-4ea2-9f20-a6de0ecd6271",
     "graduateUuid": "204a8dc2-93f9-435e-8419-519935e7450d",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -483,7 +483,7 @@
   {
     "id": "5617aeb7-85b3-4e10-812b-1048a8a53532",
     "graduateUuid": "204a8dc2-93f9-435e-8419-519935e7450d",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -496,7 +496,7 @@
   {
     "id": "fa53a105-b1eb-4192-84b9-9d7327278042",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 40000,
@@ -509,7 +509,7 @@
   {
     "id": "f90533dc-b831-44a0-92ea-6e77233eecfc",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 40000,
@@ -522,7 +522,7 @@
   {
     "id": "bf8bd6f3-dbcc-4c63-a414-4b5d7f4797ad",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 40000,
@@ -535,7 +535,7 @@
   {
     "id": "4d787845-6180-4dac-b215-9f44104557ef",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -548,7 +548,7 @@
   {
     "id": "804bdd7a-8426-4cbd-b793-39ceed24ad37",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 40000,
@@ -561,7 +561,7 @@
   {
     "id": "0bd97d9f-1a87-471e-a76e-49adcf66b586",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -574,7 +574,7 @@
   {
     "id": "3d316d68-399c-4b51-ba16-25cced522d85",
     "graduateUuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -587,7 +587,7 @@
   {
     "id": "debdc869-3c29-46e3-a06d-5d93c1292671",
     "graduateUuid": "2773307b-4163-46d9-a70c-0f6b10a21f0c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -600,7 +600,7 @@
   {
     "id": "092d3a11-eb87-478c-b20a-a7a356cf6aaa",
     "graduateUuid": "27ce2b6e-27dc-414d-b78e-739fc01d2c9c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -613,7 +613,7 @@
   {
     "id": "ff997ba5-4f90-4703-a1af-e9062046a497",
     "graduateUuid": "281601d0-5cfb-49d8-958a-7e4b04a37d02",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -626,7 +626,7 @@
   {
     "id": "bc760359-5f16-44f5-8d51-2633d45ce66f",
     "graduateUuid": "281601d0-5cfb-49d8-958a-7e4b04a37d02",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -639,7 +639,7 @@
   {
     "id": "8b5ac7de-1868-4a72-a37b-bd9f03347765",
     "graduateUuid": "2b45f0ad-3783-4db4-b281-d7477ef247ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -652,7 +652,7 @@
   {
     "id": "19a1e779-45ec-4072-8c4f-388fe3e51c9b",
     "graduateUuid": "2b45f0ad-3783-4db4-b281-d7477ef247ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -665,7 +665,7 @@
   {
     "id": "e11906f1-edc0-4fc5-9323-fdda6760f361",
     "graduateUuid": "2eb33e99-fa28-47db-9a73-a2cca37a53ce",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -678,7 +678,7 @@
   {
     "id": "fbac0ab0-c34a-4dcf-adb7-824eb3367d2d",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -691,7 +691,7 @@
   {
     "id": "918acfb1-9e76-4b10-bb67-e3c236757a3d",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -704,7 +704,7 @@
   {
     "id": "52940fcb-6688-4487-952d-e89e63aaf463",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -717,7 +717,7 @@
   {
     "id": "ebc7c5c1-2c81-4ae6-a13b-35c0e9dc504c",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -730,7 +730,7 @@
   {
     "id": "f2dd8232-36ae-40ac-93c3-179be85decfc",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -743,7 +743,7 @@
   {
     "id": "06f13e2b-acf3-40ff-b152-7f0ac6e6d435",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -756,7 +756,7 @@
   {
     "id": "e9d0336d-4a33-44c8-a102-955150911378",
     "graduateUuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -769,7 +769,7 @@
   {
     "id": "56a9453e-24f9-4fb4-b0e8-5f9861f7b1b1",
     "graduateUuid": "33323b13-ce7a-4107-9341-19a72a5868a1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -782,7 +782,7 @@
   {
     "id": "800a5867-fb81-49e1-ae5e-b6c5cd61ffb9",
     "graduateUuid": "33323b13-ce7a-4107-9341-19a72a5868a1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -795,7 +795,7 @@
   {
     "id": "637fdcd5-9673-46f5-aa7b-edd8dc1aa587",
     "graduateUuid": "35f1c8d6-7170-45b7-b23f-692b816a4fc4",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -808,7 +808,7 @@
   {
     "id": "72792550-a37e-4bea-9f7f-612df8d5de59",
     "graduateUuid": "3968f7b0-0ce9-4682-9d2c-3d99233d2a4a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -821,7 +821,7 @@
   {
     "id": "37516f29-596a-4c2f-b388-655ae2a7b5ca",
     "graduateUuid": "3968f7b0-0ce9-4682-9d2c-3d99233d2a4a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -834,7 +834,7 @@
   {
     "id": "b5a4e5b3-a70b-4774-88ed-a7792673ede6",
     "graduateUuid": "3ee29dc0-c8f1-4de0-bf5c-071ffec8515a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -847,7 +847,7 @@
   {
     "id": "2c8d8102-40fd-42e2-bcab-639428a1fc7e",
     "graduateUuid": "3ee29dc0-c8f1-4de0-bf5c-071ffec8515a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -860,7 +860,7 @@
   {
     "id": "aac1710b-f5af-49c3-9604-d768091de82b",
     "graduateUuid": "3f28bbd8-f361-4436-ad5f-54d5e7bb2ca9",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -873,7 +873,7 @@
   {
     "id": "0baea53d-dd59-41d6-8b26-c25ac42ae932",
     "graduateUuid": "3f28bbd8-f361-4436-ad5f-54d5e7bb2ca9",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -886,7 +886,7 @@
   {
     "id": "32bfd923-210b-4936-9f3b-264d0eaf41bd",
     "graduateUuid": "4173e65e-cb72-4129-96f3-8b0b66debf03",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -899,7 +899,7 @@
   {
     "id": "9dd7937c-cf8d-481e-a9f6-0fb6caf7c4ca",
     "graduateUuid": "44b66385-152d-4888-aa34-475a7e3b1529",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -912,7 +912,7 @@
   {
     "id": "33a62bd0-38e6-4742-b4aa-554a4e3dc64b",
     "graduateUuid": "44b66385-152d-4888-aa34-475a7e3b1529",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -925,7 +925,7 @@
   {
     "id": "75c20f6a-91d0-4598-b79b-aafd8d890b12",
     "graduateUuid": "456a5028-3dee-4aa4-9a38-7bc7f23e1b6a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -938,7 +938,7 @@
   {
     "id": "ea27fef8-6273-42dc-a6bd-4b29500e72b8",
     "graduateUuid": "456a5028-3dee-4aa4-9a38-7bc7f23e1b6a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -951,7 +951,7 @@
   {
     "id": "915856c9-465d-4eb1-9ba9-380af250ca2c",
     "graduateUuid": "464c6f7f-1a75-42f8-b5d6-4ac1e9842232",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -964,7 +964,7 @@
   {
     "id": "63700816-09ed-4cda-bdaa-e3fd2582526a",
     "graduateUuid": "464c6f7f-1a75-42f8-b5d6-4ac1e9842232",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -977,7 +977,7 @@
   {
     "id": "555b65a5-ee8f-4e45-b690-99e85f3252ae",
     "graduateUuid": "477241cf-237e-4646-b34c-9f2dad709908",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -990,7 +990,7 @@
   {
     "id": "6c899a1d-6b0d-43a8-bcef-591fd022a44f",
     "graduateUuid": "477241cf-237e-4646-b34c-9f2dad709908",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -1003,7 +1003,7 @@
   {
     "id": "98e668b3-22dc-46fd-8ac8-0814a47293f9",
     "graduateUuid": "49ddac3d-a1c0-44c6-94a2-1cf2e14d8458",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1016,7 +1016,7 @@
   {
     "id": "fd9d16a4-4d7b-446d-a0ea-2e77b428f6c4",
     "graduateUuid": "49ddac3d-a1c0-44c6-94a2-1cf2e14d8458",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 18000,
@@ -1029,7 +1029,7 @@
   {
     "id": "ba68f222-d1fe-411b-9e15-9ffa11f222b6",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1042,7 +1042,7 @@
   {
     "id": "9f47d84c-79fd-48c7-bf65-7ce6d400c3c2",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1055,7 +1055,7 @@
   {
     "id": "37aa5182-7f96-4be2-8dce-1f34179b6a80",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1068,7 +1068,7 @@
   {
     "id": "592589d9-d48a-4dee-a9a1-10e1c0ee6de2",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1081,7 +1081,7 @@
   {
     "id": "b18419c0-730a-437e-a85b-1fa22ee5074f",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1094,7 +1094,7 @@
   {
     "id": "b5f6b8d6-9979-48c0-8852-5ad91eb44506",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1107,7 +1107,7 @@
   {
     "id": "ceb4c000-ebf1-4645-b029-d157589251fa",
     "graduateUuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1120,7 +1120,7 @@
   {
     "id": "fbd478e1-967d-4ff9-bca6-ae984f2284dc",
     "graduateUuid": "5698ed2d-7f0f-432a-9db0-7d2436655b3c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -1133,7 +1133,7 @@
   {
     "id": "7ab929d3-6c19-4648-98c7-13381b4a30b1",
     "graduateUuid": "5698ed2d-7f0f-432a-9db0-7d2436655b3c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1146,7 +1146,7 @@
   {
     "id": "fc47108e-941a-4b56-8d08-22fa4922d5a7",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1159,7 +1159,7 @@
   {
     "id": "1be42c0c-b920-421b-bde9-4bb000bd3c09",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1172,7 +1172,7 @@
   {
     "id": "736c7ca8-62b2-4141-bf49-38f37d3203a8",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1185,7 +1185,7 @@
   {
     "id": "bed68849-a6ce-4305-a10d-b247771737b8",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1198,7 +1198,7 @@
   {
     "id": "f12ee639-8244-478c-bed9-b920bda0be04",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1211,7 +1211,7 @@
   {
     "id": "bdc5faf6-4034-4613-ba69-8913ac890dbb",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1224,7 +1224,7 @@
   {
     "id": "951b5034-a394-4b14-b15c-45ca01d7b547",
     "graduateUuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23500,
@@ -1237,7 +1237,7 @@
   {
     "id": "b1f43bae-2689-44db-ad31-dc8519796978",
     "graduateUuid": "5e929d22-470c-451b-81a2-dec5b8ca1513",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1250,7 +1250,7 @@
   {
     "id": "4e8e9de6-91a0-49c8-b014-9fa470da8152",
     "graduateUuid": "6081103e-d61e-47a4-bdf1-f4d7651d4572",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1263,7 +1263,7 @@
   {
     "id": "bcf642d2-9538-461f-a232-cdbf6a099aee",
     "graduateUuid": "6081103e-d61e-47a4-bdf1-f4d7651d4572",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1276,7 +1276,7 @@
   {
     "id": "964cf809-46aa-4bed-ae92-cd0952bd85eb",
     "graduateUuid": "616f14f6-73a9-4287-be88-bb04cd7fdd2a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -1289,7 +1289,7 @@
   {
     "id": "0b718498-2d27-43ed-b30d-aa405812d9ba",
     "graduateUuid": "616f14f6-73a9-4287-be88-bb04cd7fdd2a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -1302,7 +1302,7 @@
   {
     "id": "8486f3d9-85d2-4ea3-9a65-f9f27b1fd6fb",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -1315,7 +1315,7 @@
   {
     "id": "8d56125a-27bb-4221-9c4a-7c9aeba2eb4b",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -1328,7 +1328,7 @@
   {
     "id": "cb25305d-12dc-4315-8303-e6c5671b3282",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -1341,7 +1341,7 @@
   {
     "id": "c57eef26-82e8-45df-9938-83c001f88fc2",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1354,7 +1354,7 @@
   {
     "id": "ea81f44b-ac6e-46fb-aec7-a5d9ad078801",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -1367,7 +1367,7 @@
   {
     "id": "a9b4b22d-e8f7-4096-9276-81be48430032",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1380,7 +1380,7 @@
   {
     "id": "9280fd04-0a4f-49eb-8907-689446ed4bfa",
     "graduateUuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23500,
@@ -1393,7 +1393,7 @@
   {
     "id": "85426968-3617-41d2-9308-30fa80d9353b",
     "graduateUuid": "64f42add-21a2-4822-bf3c-47c10f9a3e7a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -1406,7 +1406,7 @@
   {
     "id": "722f3d73-5b4c-421e-92cd-ca138a61476d",
     "graduateUuid": "64f42add-21a2-4822-bf3c-47c10f9a3e7a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -1419,7 +1419,7 @@
   {
     "id": "99fabde7-b662-42a0-b1a8-841aa58ab050",
     "graduateUuid": "6b335368-dd90-4e27-9db3-124016508243",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1432,7 +1432,7 @@
   {
     "id": "b4f23b31-ef43-40b7-8b5f-29d3caa5cabd",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1445,7 +1445,7 @@
   {
     "id": "4e7b08f3-a0b2-494f-a510-c071a1c8089f",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1458,7 +1458,7 @@
   {
     "id": "f142fbbf-d0ee-4c6f-beb2-e916591691d1",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1471,7 +1471,7 @@
   {
     "id": "29352ab2-90a8-45ba-b614-199deef9f24d",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1484,7 +1484,7 @@
   {
     "id": "19db8f34-74ac-44b4-b55d-ffbe2155df7d",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1497,7 +1497,7 @@
   {
     "id": "60e021af-f79f-4ca9-96eb-97fb68846d14",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1510,7 +1510,7 @@
   {
     "id": "43ad3160-d8f5-4d5d-a78c-e967f74e9577",
     "graduateUuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1523,7 +1523,7 @@
   {
     "id": "ee6fa357-5ead-482a-804a-8946770bc709",
     "graduateUuid": "739ff00e-8ce7-44c1-ad58-fa6d9cd15961",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -1536,7 +1536,7 @@
   {
     "id": "d4c75d2a-a706-40df-ba45-628eab29013e",
     "graduateUuid": "739ff00e-8ce7-44c1-ad58-fa6d9cd15961",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -1549,7 +1549,7 @@
   {
     "id": "dc8766f1-481a-415d-8eab-a0bc7d4aa5d4",
     "graduateUuid": "77ca53b1-a841-4d70-92e6-119f69d51dbc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -1562,7 +1562,7 @@
   {
     "id": "69c8dff6-c6ee-4da5-a0be-d6cfdab6a1bc",
     "graduateUuid": "77ca53b1-a841-4d70-92e6-119f69d51dbc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -1575,7 +1575,7 @@
   {
     "id": "3e1d11fc-993b-46c7-85e9-e2d857831c59",
     "graduateUuid": "784ddd52-8a7c-4832-aa22-bb89c84e623f",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1588,7 +1588,7 @@
   {
     "id": "fb315c57-23a7-4c75-9ef1-f38ae1dcb8aa",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -1601,7 +1601,7 @@
   {
     "id": "6bfecc86-331a-4506-bfd0-94be34f74baa",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -1614,7 +1614,7 @@
   {
     "id": "61279f1d-5b16-4db6-9fff-e3b809b55de3",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -1627,7 +1627,7 @@
   {
     "id": "6bf07d73-fffc-449e-af98-7aae860d86a0",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -1640,7 +1640,7 @@
   {
     "id": "150d7994-462a-490e-ae78-76f4429a78d6",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -1653,7 +1653,7 @@
   {
     "id": "fdf40617-c537-4113-8f44-036d17b930b4",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1666,7 +1666,7 @@
   {
     "id": "055149b5-aa28-4d62-b5b3-6eea2ff416ee",
     "graduateUuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1679,7 +1679,7 @@
   {
     "id": "f41031c8-c946-4b28-90f6-f1ade805365f",
     "graduateUuid": "7d7324bb-f7fe-420a-8f58-b398b5e1178a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1692,7 +1692,7 @@
   {
     "id": "36916b0b-1aa3-4530-a08e-4a819df8b072",
     "graduateUuid": "898b5bc4-d8fd-4112-a385-547676cbd52c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -1705,7 +1705,7 @@
   {
     "id": "7c3a9dd2-3cf6-4153-a893-a12deeb5d110",
     "graduateUuid": "898b5bc4-d8fd-4112-a385-547676cbd52c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -1718,7 +1718,7 @@
   {
     "id": "1036a06d-3dde-4d86-93cf-7c04fdf05abb",
     "graduateUuid": "8b1d489f-6615-4af1-b926-c7794741d5b1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1731,7 +1731,7 @@
   {
     "id": "ee4307ec-ddb0-46bd-94c4-ca5969d279f6",
     "graduateUuid": "8b1d489f-6615-4af1-b926-c7794741d5b1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -1744,7 +1744,7 @@
   {
     "id": "840bed64-bfe5-4b5f-82d4-822af04525cd",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1757,7 +1757,7 @@
   {
     "id": "017ddf6f-66dd-4f08-a9f7-297b272850d1",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1770,7 +1770,7 @@
   {
     "id": "1386086b-8d92-4809-8dfa-58fd693607ae",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1783,7 +1783,7 @@
   {
     "id": "45bb2ef9-24a2-466b-83ff-b69703ece2e2",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1796,7 +1796,7 @@
   {
     "id": "40553034-da4e-4658-8911-13efddc755ac",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1809,7 +1809,7 @@
   {
     "id": "2545313d-1780-4e49-81c4-20fcf5f56381",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1822,7 +1822,7 @@
   {
     "id": "58d6aa77-847e-4136-84de-78fcb3a3e600",
     "graduateUuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -1835,7 +1835,7 @@
   {
     "id": "a95c9259-a8c3-4ec7-a062-ee07c8263505",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1848,7 +1848,7 @@
   {
     "id": "b4f3fa8e-4469-4c62-92c1-337b434fc3ef",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1861,7 +1861,7 @@
   {
     "id": "865375f4-f597-45d8-b5b6-562143b48fd2",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1874,7 +1874,7 @@
   {
     "id": "ae31bd6f-30a5-4f21-a905-5476fcdfc927",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -1887,7 +1887,7 @@
   {
     "id": "189aea29-6dfe-4a18-aefa-db49aa0d679a",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1900,7 +1900,7 @@
   {
     "id": "8280fcf1-8f26-4bf4-969e-5f7847dcf323",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -1913,7 +1913,7 @@
   {
     "id": "8f2c5d03-e012-4740-90dd-a66841f87ce5",
     "graduateUuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -1926,7 +1926,7 @@
   {
     "id": "0a23c82f-d881-452b-93c4-3512c214aeae",
     "graduateUuid": "95b3daa7-7d9b-4239-aa75-baef9fc298a6",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -1939,7 +1939,7 @@
   {
     "id": "2f12c210-26d6-4ffe-b24a-57cb456f7c3b",
     "graduateUuid": "9619a8b7-88e0-4fca-a4c4-72b5f5d93789",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1952,7 +1952,7 @@
   {
     "id": "2578227e-f04c-4001-849f-55d7f072d30d",
     "graduateUuid": "9619a8b7-88e0-4fca-a4c4-72b5f5d93789",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1965,7 +1965,7 @@
   {
     "id": "a00b10ff-31ef-4834-a4b8-b564441d597f",
     "graduateUuid": "96ee6e50-6fcf-43b9-b668-741827636301",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1978,7 +1978,7 @@
   {
     "id": "40327bdf-f623-4fc7-89d5-9ddc81bb1687",
     "graduateUuid": "96ee6e50-6fcf-43b9-b668-741827636301",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -1991,7 +1991,7 @@
   {
     "id": "cf9af7ff-bf94-474f-ace1-85f9d2aa321d",
     "graduateUuid": "9960760f-b212-49b4-b973-331d5be32da8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -2004,7 +2004,7 @@
   {
     "id": "fb55c106-10e4-436b-bde4-9b058b7fb382",
     "graduateUuid": "9960760f-b212-49b4-b973-331d5be32da8",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2017,7 +2017,7 @@
   {
     "id": "7984b922-5b58-4200-8126-af867b7dc21a",
     "graduateUuid": "9b6377a2-5b07-46eb-b9ba-e9b4ac04ab57",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2030,7 +2030,7 @@
   {
     "id": "b8841e93-2e22-45ba-80f1-33bd4cb7f55d",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2043,7 +2043,7 @@
   {
     "id": "95bfad0b-be21-457d-a0f4-474b3bbcd92a",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2056,7 +2056,7 @@
   {
     "id": "de656c72-2c02-4d7f-81d7-d7047a7b2330",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -2069,7 +2069,7 @@
   {
     "id": "f0aa8a0e-9b53-4935-85f7-4782518e98e1",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -2082,7 +2082,7 @@
   {
     "id": "69f13fb7-239b-41d8-824a-09456c6ceafd",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 32000,
@@ -2095,7 +2095,7 @@
   {
     "id": "8616a858-0b28-4e33-8d22-6038fccf9148",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2108,7 +2108,7 @@
   {
     "id": "eb168617-e04b-4a2a-88bc-a27a5b927e99",
     "graduateUuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -2121,7 +2121,7 @@
   {
     "id": "e3a02fc7-10a6-4263-8dde-cf21869a42d0",
     "graduateUuid": "9cb155fd-34af-4cc1-88dd-ab0c9157d47b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -2134,7 +2134,7 @@
   {
     "id": "7fffb4a7-c552-4a8e-a335-dbc2f6023121",
     "graduateUuid": "9f60e09d-f03e-474a-94eb-2e8d372a0a1c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2147,7 +2147,7 @@
   {
     "id": "aa43f9c6-d109-4585-a4ac-11f5371c07c2",
     "graduateUuid": "9f60e09d-f03e-474a-94eb-2e8d372a0a1c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2160,7 +2160,7 @@
   {
     "id": "fe7c30ee-a4bb-40ed-a7ff-6a0289034094",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2173,7 +2173,7 @@
   {
     "id": "ae8ff210-9cfb-4b67-9e3e-5c8ab34630b4",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2186,7 +2186,7 @@
   {
     "id": "49b6db05-8e7e-4d52-94d8-84910de55715",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2199,7 +2199,7 @@
   {
     "id": "5a0af383-10fd-41e7-997d-5b8533b22405",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 27000,
@@ -2212,7 +2212,7 @@
   {
     "id": "7dca13c4-b49a-427b-8c8c-60b23e28a41f",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2225,7 +2225,7 @@
   {
     "id": "e4217a67-3ac3-4c20-8358-e97e6a94786a",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2238,7 +2238,7 @@
   {
     "id": "63f24d6d-7dc4-4321-8762-b147b92dae7b",
     "graduateUuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -2251,7 +2251,7 @@
   {
     "id": "45392ea1-4ac7-40ec-90e9-607932d4031b",
     "graduateUuid": "a2590ba5-6614-44a2-a085-1979559e9147",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2264,7 +2264,7 @@
   {
     "id": "ceb5ad72-09dd-4c7e-b31c-27e6923a5343",
     "graduateUuid": "a3a16860-db50-4855-a539-2249b064f0a3",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -2277,7 +2277,7 @@
   {
     "id": "225703a3-9e58-4e78-a8ce-d84d8f634903",
     "graduateUuid": "a985571b-6806-4172-bcfd-ecb1fa70bac2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2290,7 +2290,7 @@
   {
     "id": "4287c231-8d7a-4a08-b4bc-85fcead340a5",
     "graduateUuid": "a985571b-6806-4172-bcfd-ecb1fa70bac2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2303,7 +2303,7 @@
   {
     "id": "3e0b1105-9b1c-4603-8f51-0f827da0a4f3",
     "graduateUuid": "aa0d1c74-f66f-4059-a173-db73d9ca143e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2316,7 +2316,7 @@
   {
     "id": "b75dde10-d51c-4d52-ab40-03b2ad4bf894",
     "graduateUuid": "aa0d1c74-f66f-4059-a173-db73d9ca143e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2329,7 +2329,7 @@
   {
     "id": "34d5719c-be24-432f-81be-e6072d0bda3f",
     "graduateUuid": "abbfe044-3b3d-4921-92c2-18a1ab7601d5",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2342,7 +2342,7 @@
   {
     "id": "c62407c5-0d0d-45eb-8c5a-1cb1b920aa59",
     "graduateUuid": "acc0e9cd-ab46-4529-b508-2178b57c4fa5",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -2355,7 +2355,7 @@
   {
     "id": "c16d26bf-3c07-44ca-a872-85568a676a2c",
     "graduateUuid": "acc0e9cd-ab46-4529-b508-2178b57c4fa5",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2368,7 +2368,7 @@
   {
     "id": "da87710c-c76b-4fd5-8f31-853b42f060d4",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -2381,7 +2381,7 @@
   {
     "id": "f6119ac6-ef37-4476-a28a-9a24091ce5e7",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -2394,7 +2394,7 @@
   {
     "id": "828dc458-07db-4ad6-92af-49318607ea01",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2407,7 +2407,7 @@
   {
     "id": "b21185cf-656f-437a-9a76-127b9a725bdf",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2420,7 +2420,7 @@
   {
     "id": "6c066252-96df-4213-9211-4e95c016219f",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2433,7 +2433,7 @@
   {
     "id": "178b1b9b-2465-4d0d-9554-a0c4d5e81984",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2446,7 +2446,7 @@
   {
     "id": "ae8a29a0-6bec-418e-994a-fce1476dc95c",
     "graduateUuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2459,7 +2459,7 @@
   {
     "id": "eb05773f-8217-4ba8-bef2-4a0f4f82df86",
     "graduateUuid": "aef2d52f-be7d-43d6-a81a-0aa1ce0f9ed5",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2472,7 +2472,7 @@
   {
     "id": "52e311bd-d5fa-41b1-9d15-56f379a14214",
     "graduateUuid": "aef2d52f-be7d-43d6-a81a-0aa1ce0f9ed5",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2485,7 +2485,7 @@
   {
     "id": "f1a010c2-3b9a-4780-9973-76c42d103706",
     "graduateUuid": "b2882d56-33b2-4dab-9a9c-0a2062f86bf2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2498,7 +2498,7 @@
   {
     "id": "756386f5-bd7d-400c-9661-efdbf967ea2d",
     "graduateUuid": "b2882d56-33b2-4dab-9a9c-0a2062f86bf2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2511,7 +2511,7 @@
   {
     "id": "091877a3-237d-4960-a47e-4962179aa33d",
     "graduateUuid": "b2c09dbc-df71-4634-a02f-379cbfd241e0",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2524,7 +2524,7 @@
   {
     "id": "68579a27-ef4a-4699-a030-5c22204d118e",
     "graduateUuid": "bba4731c-60a7-4b4a-bee5-68ac27c9113a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -2537,7 +2537,7 @@
   {
     "id": "861ab70c-293a-4a31-88a8-74770aa523eb",
     "graduateUuid": "bd353f20-27a7-4fb5-8bd1-7113e92f6fbf",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -2550,7 +2550,7 @@
   {
     "id": "1565d217-dcbb-415f-9638-befad05c1145",
     "graduateUuid": "bfa6cb67-d2c1-45d7-b6ae-4b5c67aa4ac2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2563,7 +2563,7 @@
   {
     "id": "9648194b-9d4b-444e-aec5-f5783569968d",
     "graduateUuid": "bfa6cb67-d2c1-45d7-b6ae-4b5c67aa4ac2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2576,7 +2576,7 @@
   {
     "id": "648cdfa8-00a4-4e3c-be96-7223b0b0ea86",
     "graduateUuid": "c233f71b-4fa2-4212-999f-3f5dd82d0e1a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2589,7 +2589,7 @@
   {
     "id": "2631eb32-c469-4d70-aebd-e3aa5029cb75",
     "graduateUuid": "c23e744d-735b-4aff-9ff6-b9e2cafe289e",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 18000,
@@ -2602,7 +2602,7 @@
   {
     "id": "6468691b-515c-4cab-92dc-91bf0c789bef",
     "graduateUuid": "c3cc6a9a-0d75-494a-8d27-46f8ceeeabbc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2615,7 +2615,7 @@
   {
     "id": "13a8d136-b3aa-41c0-b232-6febd3875d3e",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2628,7 +2628,7 @@
   {
     "id": "643d40c1-e370-48e0-a3d5-237b494f7cbd",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2641,7 +2641,7 @@
   {
     "id": "39d53a97-2d5e-421d-b4a2-30393198c0c1",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2654,7 +2654,7 @@
   {
     "id": "b4566ee5-abd0-4dc6-b7d9-50108dbb76c2",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2667,7 +2667,7 @@
   {
     "id": "479cb40a-7402-4e20-a227-a87b277d56ba",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -2680,7 +2680,7 @@
   {
     "id": "41dc2de3-f239-4974-b5da-8c60b296d6f3",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2693,7 +2693,7 @@
   {
     "id": "5e3efefb-5200-4db3-86a2-b67260c0aefc",
     "graduateUuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -2706,7 +2706,7 @@
   {
     "id": "6e86ed8f-53d1-48b0-85c3-22b6df8648f3",
     "graduateUuid": "c556d55d-2186-4de3-9de4-032bca6213fa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2719,7 +2719,7 @@
   {
     "id": "16d8ba9a-7468-4e7f-b8fe-cccd051e7b9d",
     "graduateUuid": "c556d55d-2186-4de3-9de4-032bca6213fa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2732,7 +2732,7 @@
   {
     "id": "561e5ce7-ba5b-4969-b815-96b99cfbe383",
     "graduateUuid": "c7eca8e8-457c-4e82-b5a8-d3d7aec6126d",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -2745,7 +2745,7 @@
   {
     "id": "7742736a-bd04-4f62-9056-133e2c5fadd7",
     "graduateUuid": "ca401544-99da-433a-a12e-1777efa3c95c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -2758,7 +2758,7 @@
   {
     "id": "31a776b8-f80d-4014-bf58-266b0cf3b7e7",
     "graduateUuid": "ca401544-99da-433a-a12e-1777efa3c95c",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
@@ -2771,7 +2771,7 @@
   {
     "id": "17cdd874-28b1-461c-858a-26025de21e92",
     "graduateUuid": "cb07a722-360e-42d0-953a-8bf37753b645",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -2784,7 +2784,7 @@
   {
     "id": "b6b2b49f-b733-4f2c-80e1-ce42965a06d2",
     "graduateUuid": "cc38e70c-4af1-438a-a9a1-2c7794deb471",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -2797,7 +2797,7 @@
   {
     "id": "c26f1994-5199-4f08-aca1-be0421b3d08d",
     "graduateUuid": "cc38e70c-4af1-438a-a9a1-2c7794deb471",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -2810,7 +2810,7 @@
   {
     "id": "52a6009c-32db-40ba-86bd-f09b9ae5ef31",
     "graduateUuid": "ccb9fe8b-c785-47c3-b5ee-a448620e81cc",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -2823,7 +2823,7 @@
   {
     "id": "b6449572-7efa-43e6-8564-68a5db561fd7",
     "graduateUuid": "ccf98d5b-1adf-498a-89be-0c46894a56fa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -2836,7 +2836,7 @@
   {
     "id": "00a28d12-ba82-46b7-b40a-e1b6f91171fe",
     "graduateUuid": "ccf98d5b-1adf-498a-89be-0c46894a56fa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -2849,7 +2849,7 @@
   {
     "id": "7247e75b-1fce-49ab-b33d-a7617753da51",
     "graduateUuid": "d13181ad-34b7-44d6-bdf2-ee50f1dc3624",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2862,7 +2862,7 @@
   {
     "id": "dc9bf7f6-db7d-4cd7-980b-a8e5ee8ed112",
     "graduateUuid": "d13181ad-34b7-44d6-bdf2-ee50f1dc3624",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2875,7 +2875,7 @@
   {
     "id": "554f99e2-1401-44b9-9481-ac3662801399",
     "graduateUuid": "d4f192f7-653b-4c85-893a-46757ae97fa1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 29000,
@@ -2888,7 +2888,7 @@
   {
     "id": "3e5d4ad1-8f8e-4af3-9e80-e8a0bceda6d0",
     "graduateUuid": "d4f192f7-653b-4c85-893a-46757ae97fa1",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 29000,
@@ -2901,7 +2901,7 @@
   {
     "id": "33e35d51-eaf6-4cda-978a-b4a30161c2f5",
     "graduateUuid": "d57763ed-44cf-4849-9264-ab25a790d905",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -2914,7 +2914,7 @@
   {
     "id": "2874ed03-577f-4868-b68c-b42f8b074a45",
     "graduateUuid": "d57763ed-44cf-4849-9264-ab25a790d905",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 22000,
@@ -2927,7 +2927,7 @@
   {
     "id": "28f60a40-21fa-406a-8cb2-7f2a77e5b59b",
     "graduateUuid": "d6c561fe-5c01-4911-a107-30bb4b4a428f",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2940,7 +2940,7 @@
   {
     "id": "48909256-1e07-4a51-b346-c0aa099b485f",
     "graduateUuid": "d8c83af2-88e1-440e-b626-91d678733bfa",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24000,
@@ -2953,7 +2953,7 @@
   {
     "id": "a145c3c5-66b2-41f2-846d-ba3e6c238a34",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2966,7 +2966,7 @@
   {
     "id": "d6e9a986-dd6a-4a30-8065-78081841ee71",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2979,7 +2979,7 @@
   {
     "id": "f5b3c32d-645f-4bfc-8b90-0fb3d2927af2",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -2992,7 +2992,7 @@
   {
     "id": "46b60e1c-9763-4f4b-a976-91834c784b08",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3005,7 +3005,7 @@
   {
     "id": "520dd1ce-c945-4db4-a39e-c9782e1e1c85",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3018,7 +3018,7 @@
   {
     "id": "8b9039d3-be1b-4e08-bdc4-888179c96c4c",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3031,7 +3031,7 @@
   {
     "id": "8c7a2064-fb15-4de3-ac6a-d127a330bb1d",
     "graduateUuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -3044,7 +3044,7 @@
   {
     "id": "571daa57-4f37-4184-a6b0-5a35aaa56509",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -3057,7 +3057,7 @@
   {
     "id": "c1bfb7f0-c8f0-4f04-9e24-8aa291cb7459",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -3070,7 +3070,7 @@
   {
     "id": "f6b1fade-d352-4307-a23d-713c49935326",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -3083,7 +3083,7 @@
   {
     "id": "b73c4c96-fad8-45ca-a4a3-9ad5436194b5",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3096,7 +3096,7 @@
   {
     "id": "87d41747-39b6-4f35-88d0-4e64891e5c9f",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 43000,
@@ -3109,7 +3109,7 @@
   {
     "id": "fba02d44-a409-4c58-a690-e6b2748ce2d8",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3122,7 +3122,7 @@
   {
     "id": "4ac6fb65-e546-42ea-b4ac-a45ce65fab1e",
     "graduateUuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 23000,
@@ -3135,7 +3135,7 @@
   {
     "id": "e714e2f8-8930-4cfa-bf22-5f4a0f304734",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3148,7 +3148,7 @@
   {
     "id": "0fe1713c-1aac-4179-8a7d-57bea13590ce",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3161,7 +3161,7 @@
   {
     "id": "89d2335a-757c-4a69-bbab-cb356abd10ac",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3174,7 +3174,7 @@
   {
     "id": "a046e84d-4038-4acf-8fd8-07b9de8d34c4",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3187,7 +3187,7 @@
   {
     "id": "7d498992-5e31-443c-b78b-5e3e604eb913",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3200,7 +3200,7 @@
   {
     "id": "95ab90fe-4179-4518-811f-6455637ff29d",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3213,7 +3213,7 @@
   {
     "id": "3d14db5c-7435-46ce-9267-ce78209d4178",
     "graduateUuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": null,
     "currentSalary": null,
@@ -3226,7 +3226,7 @@
   {
     "id": "d2854876-bedf-4200-8273-a167125eca92",
     "graduateUuid": "e3b0efbb-d8e0-43de-bec5-44887efafd77",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -3239,7 +3239,7 @@
   {
     "id": "75765e4c-d6fd-4c97-85a0-ea2220359ec3",
     "graduateUuid": "e3b0efbb-d8e0-43de-bec5-44887efafd77",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 35000,
@@ -3252,7 +3252,7 @@
   {
     "id": "4edc0179-19ac-4ac3-8aa3-d994cc7493cf",
     "graduateUuid": "ec009998-e6fb-4bf8-81ce-187e5ab11cdd",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -3265,7 +3265,7 @@
   {
     "id": "26507064-2cea-4ff9-86cf-63fc51547c5a",
     "graduateUuid": "ec009998-e6fb-4bf8-81ce-187e5ab11cdd",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 25000,
@@ -3278,7 +3278,7 @@
   {
     "id": "8f3bf935-0830-4c86-a437-697d8195c16f",
     "graduateUuid": "ec218c6a-4774-4904-88f7-574e883a7391",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 28000,
@@ -3291,7 +3291,7 @@
   {
     "id": "e19030c5-cb99-45d5-a94e-b8f24beecd5e",
     "graduateUuid": "f076c142-187b-4fa8-a9c5-b27598da5b5a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -3304,7 +3304,7 @@
   {
     "id": "910c0547-1d3c-4f12-9536-025c22e44487",
     "graduateUuid": "f076c142-187b-4fa8-a9c5-b27598da5b5a",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -3317,7 +3317,7 @@
   {
     "id": "0a3a91e6-52fe-454a-8334-bd5dfce25387",
     "graduateUuid": "f37f0f14-8b95-4b7b-80a4-ded4af5fa4c2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -3330,7 +3330,7 @@
   {
     "id": "8e10e04d-d81d-4659-aa17-508bfb6e98ac",
     "graduateUuid": "f37f0f14-8b95-4b7b-80a4-ded4af5fa4c2",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": false,
     "techRole": false,
     "currentSalary": null,
@@ -3343,7 +3343,7 @@
   {
     "id": "008bca80-534d-48e0-a104-df5f5b45111d",
     "graduateUuid": "f8392a10-10ff-485c-9f82-6d0e8107d50b",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 24500,
@@ -3356,7 +3356,7 @@
   {
     "id": "64d32b29-d213-4999-ac75-d72f8900cd76",
     "graduateUuid": "f9971b06-307a-41eb-ab13-c439e34bf1de",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -3369,7 +3369,7 @@
   {
     "id": "00f3b0b2-7a2e-4cb7-8983-5cfd4f55e02f",
     "graduateUuid": "f9971b06-307a-41eb-ab13-c439e34bf1de",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": false,
     "currentSalary": null,
@@ -3382,7 +3382,7 @@
   {
     "id": "300f8486-b175-4b3f-864f-028c6ad02694",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3395,7 +3395,7 @@
   {
     "id": "80fc0cda-8b20-45d2-8c14-de5f92176c19",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3408,7 +3408,7 @@
   {
     "id": "f0dc644d-843d-4930-bf95-e0b8a4cac72f",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3421,7 +3421,7 @@
   {
     "id": "3f75d1dd-58b7-4ac1-af51-4177951d65eb",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3434,7 +3434,7 @@
   {
     "id": "2f88e13e-8fe7-4123-a5af-651cbef54c05",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3447,7 +3447,7 @@
   {
     "id": "8bad91fb-a7c6-47d3-9e40-76620845fe28",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 30000,
@@ -3460,7 +3460,7 @@
   {
     "id": "c3158b66-5d4c-4c21-8596-c0a89633dfe9",
     "graduateUuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": "2020-03-27 18:10:57",
+    "timestamp": null,
     "isEmployed": true,
     "techRole": true,
     "currentSalary": 26000,
