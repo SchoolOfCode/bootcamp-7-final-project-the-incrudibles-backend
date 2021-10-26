@@ -11,7 +11,11 @@
     "createResponsesTable": "node -r dotenv/config ./db/scripts/createResponsesTable.js",
     "dropResponsesTable": "node -r dotenv/config ./db/scripts/dropResponsesTable.js",
     "populateResponsesTable": "node -r dotenv/config ./db/scripts/populateResponsesTable.js",
-    "resetResponsesTable": "npm run dropResponsesTable && npm run createResponsesTable && npm run populateResponsesTable"
+    "resetResponsesTable": "npm run dropResponsesTable && npm run createResponsesTable && npm run populateResponsesTable",
+    "createPartnersTable": "node -r dotenv/config ./db/scripts/createPartnersTable.js",
+    "dropPartnersTable": "node -r dotenv/config ./db/scripts/dropPartnersTable.js",
+    "populatePartnersTable": "node -r dotenv/config ./db/scripts/populatePartnersTable.js",
+    "resetPartnersTable": "npm run dropPartnersTable && npm run createPartnersTable && npm run populatePartnersTable"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
