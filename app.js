@@ -4,7 +4,12 @@ var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var cors = require("cors");
-
+const sgMail = require("@sendgrid/mail");
+const API_KEY =
+  "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";
+const message = require("./emails/index");
+console.log(message);
+sgMail.setApiKey(API_KEY);
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 var responsesRouter = require("./routes/responses");
@@ -30,6 +35,15 @@ app.use("/partners", partnersRouter);
 app.use(function (req, res, next) {
   next(createError(404));
 });
+
+//Content of email message
+
+sgMail
+  .send(message)
+  .then((response) => {
+    console.log("Email has been sent!");
+  })
+  .catch((error) => console.log(error.message));
 
 // error handler
 app.use(function (err, req, res, next) {
