@@ -36,10 +36,20 @@ async function updateGraduate(graduate, uuid) {
   return data.rows[0];
 }
 
+//function that takes in a graduate object and a uuid, and updates a graduate matching the uuid in the DB with that object
+async function patchGraduate(key, value, uuid) {
+  const data = await query(
+    `UPDATE graduates SET ${key} = $1 WHERE id=$2 RETURNING *;`,
+    [value, uuid]
+  );
+  return data.rows[0];
+}
+
 module.exports = {
   getAllGraduates,
   getGraduateByUuid,
   deleteGraduateByUuid,
   postNewGraduate,
   updateGraduate,
+  patchGraduate,
 };

@@ -7,6 +7,7 @@ const {
   deleteGraduateByUuid,
   postNewGraduate,
   updateGraduate,
+  patchGraduate,
 } = require("../models/graduates");
 
 const {
@@ -86,6 +87,42 @@ router.put("/:id", async (req, res) => {
     success: true,
     message: `Graduate ${graduate.graduate_name} has been updated`,
     payload: data,
+  });
+});
+
+// Patch graduate by id
+router.patch("/:id", async (req, res) => {
+  const { body } = req;
+  const { id } = req.params;
+  let payload;
+
+  // make an array of acceptable column names
+  const acceptableColumnHeaders = [
+    "graduate_name",
+    "graduate_email",
+    "cohort",
+    "first_job_date",
+  ];
+
+  // check that all col_names are acceptable names
+  for (const col_name in body) {
+    if (!acceptableColumnHeaders.includes(col_name)) {
+      res.json({
+        success: false,
+        message: `You have supplied an invalid column header`,
+      });
+      return;
+      // if all col_names are accetable - then proceed (i.e., call the update function for each property given in the body)
+    } else {
+      const value = body[col_name];
+      payload = await patchGraduate(col_name, value, id);
+    }
+  }
+
+  res.json({
+    success: true,
+    message: `graduate ${id} updated`,
+    payload: payload,
   });
 });
 
