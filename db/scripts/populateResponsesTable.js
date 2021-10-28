@@ -6,29 +6,27 @@ async function populateResponsesTable(data) {
   data.forEach(async (item) => {
     const {
       id,
-      graduateUuid,
-      isEmployed,
-      techRole,
-      currentSalary,
-      currentEmployer,
-      lengthOfService,
-      currentRole,
-      currentTechStack,
-      jobSatisfaction,
+      graduate_uuid,
+      tech_role,
+      current_salary,
+      current_employer,
+      length_of_service,
+      current_position,
+      current_tech_stack,
+      job_satisfaction,
     } = item;
     const data = await query(
-      "INSERT INTO responses (id, graduateUuid, isEmployed, techRole, currentSalary, currentEmployer, lengthOfService, currentRole, currentTechStack, jobSatisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10) RETURNING *;",
+      "INSERT INTO responses (id, graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, current_tech_stack, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9) RETURNING *;",
       [
         id,
-        graduateUuid,
-        isEmployed,
-        techRole,
-        currentSalary,
-        currentEmployer,
-        lengthOfService,
-        currentRole,
-        currentTechStack,
-        jobSatisfaction,
+        graduate_uuid,
+        tech_role,
+        current_salary,
+        current_employer,
+        length_of_service,
+        current_position,
+        current_tech_stack,
+        job_satisfaction,
       ]
     );
   });

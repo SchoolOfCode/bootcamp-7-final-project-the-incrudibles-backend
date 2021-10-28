@@ -10,7 +10,7 @@ const {
 } = require("../models/graduates");
 
 const {
-  getResponseByGraduateId,
+  getResponseByGraduateUuid,
   postNewResponse,
 } = require("../models/responses");
 
@@ -51,7 +51,7 @@ router.post("/", async (req, res) => {
   const data = await postNewGraduate(graduate);
   res.json({
     success: true,
-    message: `Graduate ${graduate.graduateName} has been added to the database`,
+    message: `Graduate ${graduate.graduate_name} has been added to the database`,
     payload: data,
   });
 });
@@ -70,7 +70,7 @@ router.post("/:id/responses", async (req, res) => {
 router.get("/:id/responses", async (req, res) => {
   console.log(req.params);
   const { id } = req.params;
-  const data = await getResponseByGraduateId(id);
+  const data = await getResponseByGraduateUuid(id);
   res.json({
     success: true,
     message: `Here are all responses for graduate ${id}`,
@@ -84,7 +84,7 @@ router.put("/:id", async (req, res) => {
   const data = await updateGraduate(graduate, id);
   res.json({
     success: true,
-    message: `Graduate ${graduate.graduateName} has been updated`,
+    message: `Graduate ${graduate.graduate_name} has been updated`,
     payload: data,
   });
 });
