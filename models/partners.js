@@ -8,11 +8,11 @@ async function getAllPartners() {
 
 async function getPartnerById(id) {
   const data = await query("SELECT * FROM partners WHERE id = $1;", [id]);
-  return data.rows;
+  return data.rows[0];
 }
 async function deletePartnerById(id) {
   const data = await query("DELETE FROM partners WHERE id = $1;", [id]);
-  return data.rows;
+  return data.rows[0];
 }
 
 async function createPartner(partner) {
@@ -21,7 +21,7 @@ async function createPartner(partner) {
     "INSERT INTO partners (org_name, is_sponsor, is_partner) VALUES ($1,$2,$3) RETURNING *;",
     [org_name, is_sponsor, is_partner]
   );
-  return data.rows;
+  return data.rows[0];
 }
 
 async function updatePartner(partner, id) {
@@ -30,7 +30,7 @@ async function updatePartner(partner, id) {
     "UPDATE partners SET org_name = $1, is_sponsor = $2, is_partner = $3 WHERE id = $4;",
     [org_name, is_sponsor, is_partner, id]
   );
-  return data.rows;
+  return data.rows[0];
 }
 
 module.exports = {

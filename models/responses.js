@@ -2,9 +2,9 @@
 const { query } = require("../db/index");
 
 //function that takes in a uuid, and deletes all responses with that uuid
-async function deleteResponseById(uuid) {
+async function deleteResponseById(id) {
   const data = await query("DELETE FROM responses WHERE id = $1;", [uuid]);
-  return data.rows;
+  return data.rows[0];
 }
 
 //function that takes in a response object, and creates a new response row in the DB
@@ -31,11 +31,11 @@ async function postNewResponse(response, graduateUuid) {
       job_satisfaction,
     ]
   );
-  return data.rows;
+  return data.rows[0];
 }
 
 //function that takes in a graduateuuid, and returns all responses associtaed with that graduate
-async function getResponseByGraduateUuid(uuid) {
+async function getResponsesByGraduateUuid(uuid) {
   const data = await query(
     "SELECT * FROM responses INNER JOIN graduates ON (responses.graduate_uuid = graduates.id) WHERE graduate_uuid = $1;",
     [uuid]
@@ -54,6 +54,6 @@ async function getAllResponses() {
 module.exports = {
   deleteResponseById,
   postNewResponse,
-  getResponseByGraduateUuid,
+  getResponsesByGraduateUuid,
   getAllResponses,
 };

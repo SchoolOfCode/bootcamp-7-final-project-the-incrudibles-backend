@@ -1,5 +1,5 @@
-var express = require("express");
-var router = express.Router();
+const express = require("express");
+const router = express.Router();
 
 const {
   getAllGraduates,
@@ -10,7 +10,7 @@ const {
 } = require("../models/graduates");
 
 const {
-  getResponseByGraduateUuid,
+  getResponsesByGraduateUuid,
   postNewResponse,
 } = require("../models/responses");
 
@@ -70,7 +70,7 @@ router.post("/:id/responses", async (req, res) => {
 router.get("/:id/responses", async (req, res) => {
   console.log(req.params);
   const { id } = req.params;
-  const data = await getResponseByGraduateUuid(id);
+  const data = await getResponsesByGraduateUuid(id);
   res.json({
     success: true,
     message: `Here are all responses for graduate ${id}`,
