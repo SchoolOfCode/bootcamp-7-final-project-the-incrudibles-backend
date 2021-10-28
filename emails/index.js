@@ -1,8 +1,8 @@
-const usFour = require("../data/usFour");
+/*const graduateemail = "nasra_diini@hotmail.com"
+const id = "9960760f-b212-49b4-b973-331d5be32da8"
+*/
 
-const graduateemail = "himeshpatel@live.co.uk"
-const id = "abbfe044-3b3d-4921-92c2-18a1ab7601d5"
-
+/*
 const message = {
   to: graduateemail,
   from: {
@@ -10,8 +10,21 @@ const message = {
     email: "incrudibles@hotmail.com",
   },
   subject: "sendGrid Test",
-  text: "Hello from SendGrid",
-  html: `<a href="https://peaceful-darwin-2d2aa9.netlify.app/?graduates=${id}">Click here</a>`,
+  template_id: " d-f737af32cca54db481684f36144d0491"
+};
+*/
+const message = {
+  to: 'himeshpatel@live.co.uk',
+  from: {
+    name: "SoC",
+    email: "incrudibles@hotmail.com",
+  },
+  templateId: 'd-f737af32cca54db481684f36144d0491',
+
+  dynamic_template_data: {
+    example: '',
+  },
 };
 
 module.exports = message;
+
