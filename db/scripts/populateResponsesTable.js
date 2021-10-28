@@ -5,7 +5,6 @@ const responsesData = require("../../data/dummyDataResponses.json");
 async function populateResponsesTable(data) {
   data.forEach(async (item) => {
     const {
-      id,
       graduate_uuid,
       tech_role,
       current_salary,
@@ -16,9 +15,8 @@ async function populateResponsesTable(data) {
       job_satisfaction,
     } = item;
     const data = await query(
-      "INSERT INTO responses (id, graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, current_tech_stack, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9) RETURNING *;",
+      "INSERT INTO responses (graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, current_tech_stack, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) RETURNING *;",
       [
-        id,
         graduate_uuid,
         tech_role,
         current_salary,
