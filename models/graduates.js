@@ -19,19 +19,19 @@ async function deleteGraduateByUuid(uuid) {
 }
 //function that takes in a graduate object, and creates a new graduate row in the DB
 async function postNewGraduate(graduate) {
-  const { graduate_name, graduate_email, cohort } = graduate;
+  const { graduate_name, graduate_email, cohort, graduation_date, first_job_date } = graduate;
   const data = await query(
-    "INSERT INTO graduates (graduate_name, graduate_email, cohort) VALUES ($1,$2,$3) RETURNING *;",
-    [graduate_name, graduate_email, cohort]
+    "INSERT INTO graduates (graduate_name, graduate_email, cohort, graduation_date, first_job_date) VALUES ($1,$2,$3,$4,$5) RETURNING *;",
+    [graduate_name, graduate_email, cohort, graduation_date, first_job_date]
   );
   return data.rows[0];
 }
 //function that takes in a graduate object and a uuid, and updates a graduate matching the uuid in the DB with that object
 async function updateGraduate(graduate, uuid) {
-  const { graduate_name, graduate_email, cohort } = graduate;
+  const { graduate_name, graduate_email, cohort, graduation_date, first_job_date } = graduate;
   const data = await query(
-    "UPDATE graduates SET graduate_name = $1, graduate_email = $2, cohort = $3 WHERE id = $4;",
-    [graduate_name, graduate_email, cohort, uuid]
+    "UPDATE graduates SET graduate_name = $1, graduate_email = $2, cohort = $3, graduation_date = $4, first_job_date = $5 WHERE id = $6;",
+    [graduate_name, graduate_email, cohort, graduation_date, first_job_date, uuid]
   );
   return data.rows[0];
 }

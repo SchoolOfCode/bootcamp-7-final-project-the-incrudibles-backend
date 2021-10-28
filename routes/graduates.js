@@ -101,6 +101,7 @@ router.patch("/:id", async (req, res) => {
     "graduate_name",
     "graduate_email",
     "cohort",
+    "graduation_date",
     "first_job_date",
   ];
 
