@@ -90,12 +90,10 @@ router.put("/:id", async (req, res) => {
   });
 });
 
-// Patch graduate by id
 router.patch("/:id", async (req, res) => {
   const { body } = req;
   const { id } = req.params;
   let payload;
-
   // make an array of acceptable column names
   const acceptableColumnHeaders = [
     "graduate_name",
@@ -104,7 +102,6 @@ router.patch("/:id", async (req, res) => {
     "graduation_date",
     "first_job_date",
   ];
-
   // check that all col_names are acceptable names
   for (const col_name in body) {
     if (!acceptableColumnHeaders.includes(col_name)) {
@@ -119,7 +116,6 @@ router.patch("/:id", async (req, res) => {
       payload = await patchGraduate(col_name, value, id);
     }
   }
-
   res.json({
     success: true,
     message: `graduate ${id} updated`,
