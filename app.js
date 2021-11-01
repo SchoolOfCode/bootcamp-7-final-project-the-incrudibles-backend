@@ -8,6 +8,7 @@ const cors = require("cors");
 const responsesRouter = require("./routes/responses");
 const graduatesRouter = require("./routes/graduates");
 const partnersRouter = require("./routes/partners");
+const technologiesRouter = require("./routes/technologies");
 
 const app = express();
 
@@ -18,6 +19,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(cors());
 
+app.use("/technologies", technologiesRouter);
 app.use("/responses", responsesRouter);
 app.use("/graduates", graduatesRouter);
 app.use("/partners", partnersRouter);
@@ -42,4 +44,3 @@ app.use(function (err, req, res, next) {
 });
 
 module.exports = app;
-

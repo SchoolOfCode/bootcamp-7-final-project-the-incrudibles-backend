@@ -3,7 +3,7 @@ const { query } = require("../db/index");
 
 //function that takes in a uuid, and deletes all responses with that uuid
 async function deleteResponseById(id) {
-  const data = await query("DELETE FROM responses WHERE id = $1;", [uuid]);
+  const data = await query("DELETE FROM responses WHERE id = $1;", [id]);
   return data.rows[0];
 }
 
