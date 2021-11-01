@@ -14,7 +14,7 @@ async function populateResponsesTable(data) {
       job_satisfaction,
     } = item;
     const data = await query(
-      "INSERT INTO responses (graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) RETURNING *;",
+      "INSERT INTO responses (graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7) RETURNING *;",
       [
         graduate_uuid,
         tech_role,
