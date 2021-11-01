@@ -15,7 +15,15 @@
     "createPartnersTable": "node -r dotenv/config ./db/scripts/createPartnersTable.js",
     "dropPartnersTable": "node -r dotenv/config ./db/scripts/dropPartnersTable.js",
     "populatePartnersTable": "node -r dotenv/config ./db/scripts/populatePartnersTable.js",
-    "resetPartnersTable": "npm run dropPartnersTable && npm run createPartnersTable && npm run populatePartnersTable"
+    "resetPartnersTable": "npm run dropPartnersTable && npm run createPartnersTable && npm run populatePartnersTable",
+    "createJoinTable": "node -r dotenv/config ./db/scripts/createJoinTable.js",
+    "dropJoinTable": "node -r dotenv/config ./db/scripts/dropJoinTable.js",
+    "populateJoinTable": "node -r dotenv/config ./db/scripts/populateJoinTable.js",
+    "resetJoinTable": "npm run dropJoinTable && npm run createJoinTable && npm run populateJoinTable",
+    "createTechnologiesTable": "node -r dotenv/config ./db/scripts/createTechnologiesTable.js",
+    "dropTechnologiesTable": "node -r dotenv/config ./db/scripts/dropTechnologiesTable.js",
+    "populateTechnologiesTable": "node -r dotenv/config ./db/scripts/populateTechnologiesTable.js",
+    "resetTechnologiesTable": "npm run dropTechnologiesTable && npm run createTechnologiesTable && npm run populateTechnologiesTable"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
