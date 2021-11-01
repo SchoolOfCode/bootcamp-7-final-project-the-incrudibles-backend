@@ -24,7 +24,7 @@ async function postNewResponse(response, graduateUuid) {
     job_satisfaction,
   } = response;
   const data = await query(
-    "INSERT INTO responses (graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, current_tech_stack, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) RETURNING *;",
+    "INSERT INTO responses (graduate_uuid, tech_role, current_salary, current_employer, length_of_service, current_position, job_satisfaction) VALUES ($1,$2,$3,$4,$5,$6,$7,$8) RETURNING *;",
     [
       graduateUuid,
       tech_role,
@@ -32,7 +32,6 @@ async function postNewResponse(response, graduateUuid) {
       current_employer,
       length_of_service,
       current_position,
-      current_tech_stack,
       job_satisfaction,
     ]
   );
@@ -71,7 +70,7 @@ async function getResponsesByGraduateUuid(uuid) {
                 INNER JOIN tech_join ON (tech_join.tech_id = t.id)
 		            WHERE r.id = tech_join.response_id
 		     			) AS nested_technology
-		     		) AS current_technologies
+		     		) AS current_tech_stack
 		        FROM responses r
 		        WHERE g.id = r.graduate_uuid
         	) AS nested_response
@@ -103,7 +102,7 @@ async function getAllResponses() {
                 INNER JOIN tech_join ON (tech_join.tech_id = t.id)
 		            WHERE r.id = tech_join.response_id
 		     			) AS nested_technology
-		     		) AS current_technologies
+		     		) AS current_tech_stack
 		        FROM responses r
 		        WHERE g.id = r.graduate_uuid
         	) AS nested_response
