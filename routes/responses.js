@@ -6,6 +6,9 @@ const {
   deleteResponseById,
   postNewResponse,
 } = require("../models/responses");
+const {
+  deleteJoinByResponseId,
+} = require("../models/join");
 
 /* GET all responses listing. */
 router.get("/", async (req, res) => {
@@ -22,6 +25,7 @@ router.get("/", async (req, res) => {
 router.delete("/:id", async (req, res) => {
   const { id } = req.params;
   const data = await deleteResponseById(id);
+  await deleteJoinByResponseId(id);
   res.json({
     success: true,
     message: `Response ${id} has been deleted form the database`,

@@ -1,5 +1,10 @@
 //import 'query' that we created in db/index.js so we can use it here instead
 const { query } = require("../db/index");
+const {
+  getTechnologyByName,
+  addTechnology,
+} = require("../models/technologies");
+const { addJoin } = require("../models/join");
 
 //function that takes in a uuid, and deletes all responses with that uuid
 async function deleteResponseById(id) {
@@ -31,13 +36,49 @@ async function postNewResponse(response, graduateUuid) {
       job_satisfaction,
     ]
   );
+  current_tech_stack.forEach(async (item) => {
+    const techId = await getTechnologyByName(item);
+    if (!techId) {
+      await addTechnology({ name: item });
+    }
+    const joinBody = {
+      response_id: data.rows[0].id,
+      tech_id: techId.id,
+    };
+    console.log(joinBody);
+    await addJoin(joinBody);
+  });
   return data.rows[0];
 }
 
 //function that takes in a graduateuuid, and returns all responses associtaed with that graduate
 async function getResponsesByGraduateUuid(uuid) {
   const data = await query(
-    "SELECT * FROM responses INNER JOIN graduates ON (responses.graduate_uuid = graduates.id) WHERE graduate_uuid = $1;",
+    `
+  SELECT
+    	g.id, g.graduate_name, g.graduate_email, g.cohort, g.graduation_date, g.first_job_date,
+        (
+        	SELECT jsonb_agg(nested_response)
+        	FROM (
+	        	SELECT
+		     		r.*,
+		     		(
+		     			SELECT json_agg(nested_technology)
+		     			FROM (
+		     				SELECT
+		     				t.name
+			     			FROM technologies t
+                INNER JOIN tech_join ON (tech_join.tech_id = t.id)
+		            WHERE r.id = tech_join.response_id
+		     			) AS nested_technology
+		     		) AS current_technologies
+		        FROM responses r
+		        WHERE g.id = r.graduate_uuid
+        	) AS nested_response
+        ) AS responses
+    FROM graduates g
+    WHERE g.id = $1;
+  `,
     [uuid]
   );
   return data.rows;
@@ -45,9 +86,30 @@ async function getResponsesByGraduateUuid(uuid) {
 
 //function that returns all responses from the DB, as well as the associated graduate info
 async function getAllResponses() {
-  const data = await query(
-    "SELECT g.id, g.graduate_name, g.graduate_email, g.cohort, g.graduation_date, g.first_job_date, json_agg(r.*) as responses FROM graduates g INNER JOIN responses r ON (r.graduate_uuid = g.id) GROUP BY g.id;"
-  );
+  const data = await query(`
+  SELECT
+    	g.id, g.graduate_name, g.graduate_email, g.cohort, g.graduation_date, g.first_job_date,
+        (
+        	SELECT jsonb_agg(nested_response)
+        	FROM (
+	        	SELECT
+		     		r.*,
+		     		(
+		     			SELECT json_agg(nested_technology)
+		     			FROM (
+		     				SELECT
+		     				t.name
+			     			FROM technologies t
+                INNER JOIN tech_join ON (tech_join.tech_id = t.id)
+		            WHERE r.id = tech_join.response_id
+		     			) AS nested_technology
+		     		) AS current_technologies
+		        FROM responses r
+		        WHERE g.id = r.graduate_uuid
+        	) AS nested_response
+        ) AS responses
+    FROM graduates g;
+  `);
   return data.rows;
 }
 
