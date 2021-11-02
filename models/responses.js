@@ -73,6 +73,7 @@ async function getResponsesByGraduateUuid(uuid) {
 		     		) AS current_tech_stack
 		        FROM responses r
 		        WHERE g.id = r.graduate_uuid
+            ORDER BY r.timestamp
         	) AS nested_response
         ) AS responses
     FROM graduates g
@@ -105,6 +106,7 @@ async function getAllResponses() {
 		     		) AS current_tech_stack
 		        FROM responses r
 		        WHERE g.id = r.graduate_uuid
+            ORDER BY r.timestamp
         	) AS nested_response
         ) AS responses
     FROM graduates g;
