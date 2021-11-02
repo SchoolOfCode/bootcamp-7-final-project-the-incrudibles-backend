@@ -1,2940 +1,2672 @@
 [
   {
     "graduate_uuid": "03a527f5-33e8-45fa-a205-beacb223f3a4",
-    "timestamp": null,
+    "timestamp": "2021-10-01T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 18000,
     "current_employer": "Gymshark",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "05478b46-62c3-47ad-984d-90912844ff6d",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 22000,
+    "current_salary": 28000,
     "current_employer": "RWG",
     "length_of_service": "3-6 months",
-    "current_position": "developer",
-
+    "current_role": "developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "05478b46-62c3-47ad-984d-90912844ff6d",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 22000,
+    "current_salary": 24000,
     "current_employer": "RWG",
     "length_of_service": "0-3 months",
-    "current_position": "developer",
-
+    "current_role": "developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "085daba3-6458-4226-a9f0-e6e876ec62df",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Wise",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 35000,
-    "current_employer": "Natwest",
-    "length_of_service": "3-6 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 4
-  },
-  {
-    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 35000,
+    "current_salary": 28000,
     "current_employer": "Natwest",
     "length_of_service": "0-3 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 35000,
+    "current_salary": 40000,
     "current_employer": "Natwest",
-    "length_of_service": "0-3 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 4
-  },
-  {
-    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 35000,
-    "current_employer": "Natwest",
-    "length_of_service": "6-12 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 35000,
-    "current_employer": "Natwest",
-    "length_of_service": "6-12 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 1
-  },
-  {
-    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "OAG",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 5
+    "current_role": "Backend Developer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 5
   },
   {
-    "graduate_uuid": "0cb53116-3b00-417f-9acf-730ab093f814",
-    "timestamp": null,
+    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
+    "current_employer": "OAG",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
+    "timestamp": "2019-08-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "Natwest",
+    "length_of_service": "0-3 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 4
+  },
+  {
+    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
+    "timestamp": "2020-02-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 35000,
+    "current_employer": "Natwest",
+    "length_of_service": "6-12 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "09928eca-3649-44ac-95e1-7a763609ca21",
+    "timestamp": "2020-05-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "Natwest",
+    "length_of_service": "6-12 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 1
+  },
+  {
+    "graduate_uuid": "0cb53116-3b00-417f-9acf-730ab093f814",
+    "timestamp": "2020-12-08T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 35000,
     "current_employer": "Talis",
     "length_of_service": "3-6 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "0cb53116-3b00-417f-9acf-730ab093f814",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "0edce9bb-fa1c-46d9-a8e8-e9f2c3feade8",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "122806b9-9421-4575-9793-e704eda37d90",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "CodeBook",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 35000,
+    "current_salary": 49000,
     "current_employer": "GymShark",
     "length_of_service": "18-24 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 35000,
+    "current_salary": 38000,
     "current_employer": "GymShark",
     "length_of_service": "12-18 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "GymShark",
     "length_of_service": "12-18 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "GymShark",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "GymShark",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "GymShark",
     "length_of_service": "3-6 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "12e2670e-79ef-4981-98bd-0184b9317344",
-    "timestamp": null,
+    "timestamp": "2019-03-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "GymShark",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Frontend Developer",
-
+    "current_role": "Junior Frontend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 38000,
     "current_employer": "ClickTravel",
     "length_of_service": "18-24 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "0-3 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "0-3 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
-    "timestamp": null,
+    "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "1482101c-8358-428c-9660-337083ccd8dc",
+    "timestamp": "2019-03-25T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 52000,
     "current_employer": "ClickTravel",
     "length_of_service": "18-24 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 45000,
     "current_employer": "ClickTravel",
     "length_of_service": "12-18 months",
-    "current_position": "Junior Software Developer",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 45000,
     "current_employer": "ClickTravel",
     "length_of_service": "12-18 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 38000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 35000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "1e67ddc5-6f9b-48e2-92b0-58ae8d5874eb",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "DRP",
     "length_of_service": "0-3 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "204a8dc2-93f9-435e-8419-519935e7450d",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "ClickTravel",
     "length_of_service": "18-24 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "204a8dc2-93f9-435e-8419-519935e7450d",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 40000,
+    "current_salary": 46000,
     "current_employer": "OAG",
     "length_of_service": "18-24 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
     "current_employer": "OAG",
     "length_of_service": "12-18 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
     "current_employer": "OAG",
     "length_of_service": "12-18 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "6-12 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 40000,
+    "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "6-12 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Backend Developer",
-
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "246dbedd-93ac-408b-8b58-11bcc643ded8",
-    "timestamp": null,
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "2773307b-4163-46d9-a70c-0f6b10a21f0c",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "JLR",
     "length_of_service": "0-3 months",
-    "current_position": "Assistant Project Manager",
-
+    "current_role": "Assistant Project Manager",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "27ce2b6e-27dc-414d-b78e-739fc01d2c9c",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior full stack developer",
-
+    "current_role": "Junior full stack developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "281601d0-5cfb-49d8-958a-7e4b04a37d02",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Bravissimo",
     "length_of_service": "3-6 months",
-    "current_position": "UI",
-
+    "current_role": "UI",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "281601d0-5cfb-49d8-958a-7e4b04a37d02",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UI",
-
+    "current_role": "UI",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "2b45f0ad-3783-4db4-b281-d7477ef247ac",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "UI Designer",
-
+    "current_role": "UI Designer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "2b45f0ad-3783-4db4-b281-d7477ef247ac",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "UI Designer",
-
+    "current_role": "UI Designer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "2eb33e99-fa28-47db-9a73-a2cca37a53ce",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "User research",
-
+    "current_role": "User research",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 40000,
     "current_employer": "DRP",
     "length_of_service": "18-24 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 38000,
     "current_employer": "DRP",
     "length_of_service": "12-18 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 38000,
     "current_employer": "DRP",
     "length_of_service": "12-18 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 38000,
     "current_employer": "DRP",
     "length_of_service": "6-12 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 35000,
     "current_employer": "DRP",
     "length_of_service": "6-12 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
+    "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "DRP",
     "length_of_service": "3-6 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "308b265a-6036-4596-bb7f-d2ecd76d1395",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2019-03-25T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "33323b13-ce7a-4107-9341-19a72a5868a1",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 32000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "33323b13-ce7a-4107-9341-19a72a5868a1",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "35f1c8d6-7170-45b7-b23f-692b816a4fc4",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "3968f7b0-0ce9-4682-9d2c-3d99233d2a4a",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "3968f7b0-0ce9-4682-9d2c-3d99233d2a4a",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "3ee29dc0-c8f1-4de0-bf5c-071ffec8515a",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 29000,
     "current_employer": "Bravissimo",
     "length_of_service": "3-6 months",
-    "current_position": "User experience",
-
+    "current_role": "User experience",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "3ee29dc0-c8f1-4de0-bf5c-071ffec8515a",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "3f28bbd8-f361-4436-ad5f-54d5e7bb2ca9",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "ClickTravel",
     "length_of_service": "18-24 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "3f28bbd8-f361-4436-ad5f-54d5e7bb2ca9",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "4173e65e-cb72-4129-96f3-8b0b66debf03",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "UI Designer",
-
+    "current_role": "UI Designer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "44b66385-152d-4888-aa34-475a7e3b1529",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 22000,
+    "current_salary": 35000,
     "current_employer": "Wise",
     "length_of_service": "3-6 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "44b66385-152d-4888-aa34-475a7e3b1529",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Wise",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "456a5028-3dee-4aa4-9a38-7bc7f23e1b6a",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 23000,
+    "current_salary": 35000,
     "current_employer": "JLR",
     "length_of_service": "3-6 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "456a5028-3dee-4aa4-9a38-7bc7f23e1b6a",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "JLR",
     "length_of_service": "0-3 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "464c6f7f-1a75-42f8-b5d6-4ac1e9842232",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2019-03-25T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "464c6f7f-1a75-42f8-b5d6-4ac1e9842232",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2019-03-25T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "477241cf-237e-4646-b34c-9f2dad709908",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 22000,
+    "current_salary": 29000,
     "current_employer": "Bravissimo",
     "length_of_service": "3-6 months",
-    "current_position": "UX",
-
+    "current_role": "UX",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "477241cf-237e-4646-b34c-9f2dad709908",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UX",
-
+    "current_role": "UX",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "49ddac3d-a1c0-44c6-94a2-1cf2e14d8458",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 40000,
+    "current_employer": "Gymshark",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior back end engineer",
+    "job_satisfaction": 2
+  },
+  {
+    "graduate_uuid": "49ddac3d-a1c0-44c6-94a2-1cf2e14d8458",
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Gymshark",
-    "length_of_service": "3-6 months",
-    "current_position": "Junior back end engineer",
-
-    "job_satisfaction": 2
-  },
-  {
-    "graduate_uuid": "49ddac3d-a1c0-44c6-94a2-1cf2e14d8458",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 18000,
-    "current_employer": "Gymshark",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-04-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "Santander",
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2020-07-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 40000,
+    "current_employer": "Santander",
+    "length_of_service": "18-24 months",
+    "current_role": "Backend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2020-05-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
+    "current_employer": "Santander",
+    "length_of_service": "12-18 months",
+    "current_role": "Backend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2020-02-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
+    "current_employer": "Santander",
+    "length_of_service": "12-18 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 3
+  },
+  {
+    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
+    "timestamp": "2019-12-15T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
+    "current_employer": "Santander",
+    "length_of_service": "6-12 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 3
+  },
+  {
+    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
+    "timestamp": "2019-10-15T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 35000,
+    "current_employer": "Santander",
+    "length_of_service": "6-12 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 1
+  },
+  {
+    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
+    "timestamp": "2019-07-25T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "Santander",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 5
   },
   {
-    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "5242ca0a-3078-491f-9745-9d2e9ffc78f7",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
     "graduate_uuid": "5698ed2d-7f0f-432a-9db0-7d2436655b3c",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "HMG",
     "length_of_service": "3-6 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "5698ed2d-7f0f-432a-9db0-7d2436655b3c",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 4
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2020-06-27T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 4
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2020-01-27T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 4
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Talis",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2019-07-19T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Talis",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Frontend Developer",
-
+    "current_role": "Junior Frontend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "5b25af0b-4947-436f-bdff-a5f9be23faf6",
-    "timestamp": null,
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23500,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Frontend Developer",
-
+    "current_role": "Junior Frontend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "5e929d22-470c-451b-81a2-dec5b8ca1513",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "JLR",
     "length_of_service": "0-3 months",
-    "current_position": "Assistant Project Manager",
-
+    "current_role": "Assistant Project Manager",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "6081103e-d61e-47a4-bdf1-f4d7651d4572",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "User research",
-
+    "current_role": "User research",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "6081103e-d61e-47a4-bdf1-f4d7651d4572",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "User research",
-
+    "current_role": "User research",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "616f14f6-73a9-4287-be88-bb04cd7fdd2a",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "The Economist",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "616f14f6-73a9-4287-be88-bb04cd7fdd2a",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "HMG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 43000,
+    "current_salary": 29000,
     "current_employer": "Talis",
     "length_of_service": "3-6 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 43000,
+    "current_salary": 35000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Talis",
     "length_of_service": "12-18 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Talis",
-    "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
-    "job_satisfaction": 2
-  },
-  {
-    "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Talis",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
+    "job_satisfaction": 2
+  },
+  {
+    "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
+    "timestamp": "2019-12-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 43000,
+    "current_employer": "Talis",
+    "length_of_service": "6-12 months",
+    "current_role": "Frontend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 45000,
     "current_employer": "Talis",
     "length_of_service": "3-6 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "63d1ad12-f65d-4377-9a16-8194983a1876",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 23500,
+    "current_salary": 45000,
     "current_employer": "Talis",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Frontend Developer",
-
+    "length_of_service": "18-24 months",
+    "current_role": "Junior Frontend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "64f42add-21a2-4822-bf3c-47c10f9a3e7a",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UX",
-
+    "current_role": "UX",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "64f42add-21a2-4822-bf3c-47c10f9a3e7a",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UX",
-
+    "current_role": "UX",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "6b335368-dd90-4e27-9db3-124016508243",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Natwest",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Product Owner",
-
+    "current_role": "Junior Product Owner",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 4
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 4
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 3
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "DRP",
     "length_of_service": "6-12 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": 3
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "DRP",
     "length_of_service": "3-6 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "6c69654b-7542-41ed-aa48-9c0f46a0a3fb",
-    "timestamp": null,
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "DRP",
     "length_of_service": "0-3 months",
-    "current_position": "QA Tester",
-
+    "current_role": "QA Tester",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "739ff00e-8ce7-44c1-ad58-fa6d9cd15961",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "Data scientist",
-
+    "current_role": "Data scientist",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "739ff00e-8ce7-44c1-ad58-fa6d9cd15961",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "Data scientist",
-
+    "current_role": "Data scientist",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "77ca53b1-a841-4d70-92e6-119f69d51dbc",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 23000,
+    "current_salary": 31000,
     "current_employer": "OAG",
     "length_of_service": "3-6 months",
-    "current_position": "Junior full stack developer",
-
+    "current_role": "Junior full stack developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "77ca53b1-a841-4d70-92e6-119f69d51dbc",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior full stack developer",
-
+    "current_role": "Junior full stack developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "784ddd52-8a7c-4832-aa22-bb89c84e623f",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 32000,
+    "current_salary": 29000,
     "current_employer": "The Economist",
     "length_of_service": "3-6 months",
-    "current_position": "Developer",
-
+    "current_role": "Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 32000,
+    "current_salary": 29000,
     "current_employer": "The Economist",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 32000,
+    "current_salary": 29000,
     "current_employer": "The Economist",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 32000,
+    "current_salary": 38000,
     "current_employer": "The Economist",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 32000,
+    "current_salary": 38000,
     "current_employer": "The Economist",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 38000,
     "current_employer": "Santander",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Software Dev (Team Lead)",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "7c35e8f1-45e2-4351-829e-94e6b222e0ac",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-05-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 52000,
+    "current_employer": "Santander",
+    "length_of_service": "6-12 months",
+    "current_role": "Software Dev (Team Lead)",
+    "job_satisfaction": 5
   },
   {
     "graduate_uuid": "7d7324bb-f7fe-420a-8f58-b398b5e1178a",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "898b5bc4-d8fd-4112-a385-547676cbd52c",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
     "current_employer": "TopStack",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "898b5bc4-d8fd-4112-a385-547676cbd52c",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
     "current_employer": "TopStack",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "8b1d489f-6615-4af1-b926-c7794741d5b1",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 41000,
     "current_employer": "Santander",
     "length_of_service": "3-6 months",
-    "current_position": "User research",
-
+    "current_role": "User research",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "8b1d489f-6615-4af1-b926-c7794741d5b1",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "User research",
-
+    "current_role": "User research",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 23000,
     "current_employer": "GymShark",
     "length_of_service": "18-24 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 23000,
     "current_employer": "GymShark",
     "length_of_service": "12-18 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 28000,
     "current_employer": "GymShark",
     "length_of_service": "12-18 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 29000,
     "current_employer": "GymShark",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 32000,
     "current_employer": "GymShark",
     "length_of_service": "6-12 months",
-    "current_position": "Frontend Developer",
-
+    "current_role": "Frontend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 38000,
     "current_employer": "GymShark",
-    "length_of_service": "3-6 months",
-    "current_position": "Junior Frontend Developer",
-
+    "length_of_service": "12-18 months",
+    "current_role": "Frontend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "9231931d-a307-42c1-b3e0-d500a116cdaa",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 38000,
     "current_employer": "GymShark",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Frontend Developer",
-
+    "length_of_service": "12-18 months",
+    "current_role": "Frontend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-04-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 23000,
+    "current_employer": "CodeBook",
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-06-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 23000,
+    "current_employer": "CodeBook",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-08-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "CodeBook",
+    "length_of_service": "6-12 months",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-10-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 29000,
+    "current_employer": "CodeBook",
+    "length_of_service": "12-18 months",
+    "current_role": "Backend Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 26000,
+    "current_salary": 32000,
+    "current_employer": "CodeBook",
+    "length_of_service": "18-24 months",
+    "current_role": "Software Engineer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
+    "timestamp": "2020-02-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
+    "current_employer": "CodeBook",
+    "length_of_service": "18-24 months",
+    "current_role": "Software Engineer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "94e47032-c560-4713-bbb0-01102c0b6f5e",
+    "timestamp": "2020-05-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
     "current_employer": "ClickTravel",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "95b3daa7-7d9b-4239-aa75-baef9fc298a6",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Sainsbury's",
     "length_of_service": "0-3 months",
-    "current_position": "Junior dev",
-
+    "current_role": "Junior dev",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "9619a8b7-88e0-4fca-a4c4-72b5f5d93789",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "9619a8b7-88e0-4fca-a4c4-72b5f5d93789",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "96ee6e50-6fcf-43b9-b668-741827636301",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "96ee6e50-6fcf-43b9-b668-741827636301",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "9960760f-b212-49b4-b973-331d5be32da8",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "Natwest",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Product Owner",
-
+    "current_role": "Junior Product Owner",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "9960760f-b212-49b4-b973-331d5be32da8",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Natwest",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Product Owner",
-
+    "current_role": "Junior Product Owner",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "9b6377a2-5b07-46eb-b9ba-e9b4ac04ab57",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Sainsbury's",
     "length_of_service": "0-3 months",
-    "current_position": "Junior dev",
-
+    "current_role": "Junior dev",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 35000,
-    "current_employer": "The Economist",
-    "length_of_service": "3-6 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 35000,
-    "current_employer": "The Economist",
-    "length_of_service": "0-3 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 32000,
-    "current_employer": "The Economist",
-    "length_of_service": "0-3 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 3
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 32000,
-    "current_employer": "The Economist",
-    "length_of_service": "6-12 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 4
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 32000,
-    "current_employer": "The Economist",
-    "length_of_service": "6-12 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "3-6 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 1
-  },
-  {
-    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
-    "timestamp": null,
-    "tech_role": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
+    "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2020-06-27T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2020-01-27T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2019-10-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2019-07-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2019-05-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
+  },
+  {
+    "graduate_uuid": "9ba5bdf0-d532-478b-82c1-1a69d43c35f2",
+    "timestamp": "2019-04-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "9cb155fd-34af-4cc1-88dd-ab0c9157d47b",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "9f60e09d-f03e-474a-94eb-2e8d372a0a1c",
-    "timestamp": null,
+    "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 40000,
     "current_employer": "Talis",
     "length_of_service": "3-6 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "9f60e09d-f03e-474a-94eb-2e8d372a0a1c",
-    "timestamp": null,
+    "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_salary": 28000,
+    "current_employer": "Santander",
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_salary": 29000,
+    "current_employer": "Santander",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_salary": 31000,
+    "current_employer": "Santander",
+    "length_of_service": "6-12 months",
+    "current_role": "Software Engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 27000,
+    "current_salary": 39000,
     "current_employer": "Santander",
-    "length_of_service": "6-12 months",
-    "current_position": "Junior Developer",
-
+    "length_of_service": "12-18 months",
+    "current_role": "Software Engineer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "current_salary": 46000,
+    "current_employer": "Santander",
+    "length_of_service": "18-24 months",
+    "current_role": "DevOps Engineer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 56000,
     "current_employer": "Santander",
-    "length_of_service": "3-6 months",
-    "current_position": "Junior Developer",
-
+    "length_of_service": "18-24 months",
+    "current_role": "DevOps Engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "9fd060cc-9167-4645-88c5-50854a93aa6c",
-    "timestamp": null,
+    "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24500,
+    "current_salary": 56000,
     "current_employer": "Santander",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Developer",
-
+    "length_of_service": "18-24 months",
+    "current_role": "DevOps Engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "a2590ba5-6614-44a2-a085-1979559e9147",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "Data scientist",
-
+    "current_role": "Data scientist",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "a3a16860-db50-4855-a539-2249b064f0a3",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior full stack developer",
-
+    "current_role": "Junior full stack developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "a985571b-6806-4172-bcfd-ecb1fa70bac2",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "current_salary": 56000,
+    "current_employer": "Santander",
+    "length_of_service": "18-24 months",
+    "current_role": "DevOps Engineer",
+    "job_satisfaction": 5
   },
   {
     "graduate_uuid": "a985571b-6806-4172-bcfd-ecb1fa70bac2",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
-  },
-  {
-    "graduate_uuid": "aa0d1c74-f66f-4059-a173-db73d9ca143e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 56000,
     "current_employer": "Santander",
-    "length_of_service": "0-3 months",
-    "current_position": "UI",
-
+    "length_of_service": "18-24 months",
+    "current_role": "DevOps Engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "aa0d1c74-f66f-4059-a173-db73d9ca143e",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 24000,
+    "current_employer": "Santander",
+    "length_of_service": "0-3 months",
+    "current_role": "UI",
+    "job_satisfaction": 4
+  },
+  {
+    "graduate_uuid": "aa0d1c74-f66f-4059-a173-db73d9ca143e",
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UI",
-
+    "current_role": "UI",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "abbfe044-3b3d-4921-92c2-18a1ab7601d5",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "acc0e9cd-ab46-4529-b508-2178b57c4fa5",
-    "timestamp": null,
+    "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "Wise",
     "length_of_service": "18-24 months",
-    "current_position": "Backend Developer",
-
+    "current_role": "Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "acc0e9cd-ab46-4529-b508-2178b57c4fa5",
-    "timestamp": null,
+    "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 30000,
-    "current_employer": "Santander",
-    "length_of_service": "0-3 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 1
+    "timestamp": "2021-04-27T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 30000,
-    "current_employer": "Santander",
-    "length_of_service": "12-18 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 1
+    "timestamp": "2020-06-27T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "12-18 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 3
+    "timestamp": "2020-01-27T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "6-12 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 4
+    "timestamp": "2019-10-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "6-12 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 4
+    "timestamp": "2019-07-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "3-6 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 1
+    "timestamp": "2019-05-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aea7e350-2b2c-457e-8ce2-e1235b225a3e",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Santander",
-    "length_of_service": "0-3 months",
-    "current_position": "QA Engineer",
-
-    "job_satisfaction": 5
+    "timestamp": "2019-04-19T00:00:00.000Z",
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "aef2d52f-be7d-43d6-a81a-0aa1ce0f9ed5",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Bravissimo",
     "length_of_service": "3-6 months",
-    "current_position": "User experience",
-
+    "current_role": "User experience",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "aef2d52f-be7d-43d6-a81a-0aa1ce0f9ed5",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "User experience",
-
+    "current_role": "User experience",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "b2882d56-33b2-4dab-9a9c-0a2062f86bf2",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 35000,
     "current_employer": "Sainsbury's",
     "length_of_service": "3-6 months",
-    "current_position": "Junior dev",
-
+    "current_role": "Junior dev",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "b2882d56-33b2-4dab-9a9c-0a2062f86bf2",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Sainsbury's",
     "length_of_service": "0-3 months",
-    "current_position": "Junior dev",
-
+    "current_role": "Junior dev",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "b2c09dbc-df71-4634-a02f-379cbfd241e0",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Natwest",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Product Owner",
-
+    "current_role": "Junior Product Owner",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "bba4731c-60a7-4b4a-bee5-68ac27c9113a",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "HMG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "bd353f20-27a7-4fb5-8bd1-7113e92f6fbf",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Wise",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "bfa6cb67-d2c1-45d7-b6ae-4b5c67aa4ac2",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 25000,
+    "current_salary": 45000,
     "current_employer": "OAG",
     "length_of_service": "3-6 months",
-    "current_position": "UI Designer",
-
+    "current_role": "UI Designer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "bfa6cb67-d2c1-45d7-b6ae-4b5c67aa4ac2",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "OAG",
     "length_of_service": "0-3 months",
-    "current_position": "UI Designer",
-
+    "current_role": "UI Designer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "c233f71b-4fa2-4212-999f-3f5dd82d0e1a",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Sainsbury's",
     "length_of_service": "0-3 months",
-    "current_position": "Junior dev",
-
+    "current_role": "Junior dev",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c23e744d-735b-4aff-9ff6-b9e2cafe289e",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 18000,
     "current_employer": "Gymshark",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c3cc6a9a-0d75-494a-8d27-46f8ceeeabbc",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 35000,
+    "current_salary": 39000,
     "current_employer": "Santander",
     "length_of_service": "3-6 months",
-    "current_position": "Developer",
-
+    "current_role": "Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "Developer",
-
+    "current_role": "Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "12-18 months",
-    "current_position": "Developer",
-
+    "current_role": "Developer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Santander",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "6-12 months",
-    "current_position": "Developer",
-
+    "current_role": "Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Santander",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c422d880-38ab-41c3-b776-08af93b47812",
-    "timestamp": null,
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Developer",
-
+    "current_role": "Junior Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "c556d55d-2186-4de3-9de4-032bca6213fa",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24000,
+    "current_salary": 32000,
     "current_employer": "JLR",
     "length_of_service": "3-6 months",
-    "current_position": "Assistant Project Manager",
-
+    "current_role": "Assistant Project Manager",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c556d55d-2186-4de3-9de4-032bca6213fa",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "JLR",
     "length_of_service": "0-3 months",
-    "current_position": "Assistant Project Manager",
-
+    "current_role": "Assistant Project Manager",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "c7eca8e8-457c-4e82-b5a8-d3d7aec6126d",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "ca401544-99da-433a-a12e-1777efa3c95c",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 26000,
+    "current_salary": 45000,
     "current_employer": "HMG",
     "length_of_service": "3-6 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "ca401544-99da-433a-a12e-1777efa3c95c",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "HMG",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "cb07a722-360e-42d0-953a-8bf37753b645",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UX",
-
+    "current_role": "UX",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "cc38e70c-4af1-438a-a9a1-2c7794deb471",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "cc38e70c-4af1-438a-a9a1-2c7794deb471",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "ccb9fe8b-c785-47c3-b5ee-a448620e81cc",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": false,
     "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "current_employer": null,
+    "length_of_service": null,
+    "current_role": null,
     "job_satisfaction": null
   },
   {
     "graduate_uuid": "ccf98d5b-1adf-498a-89be-0c46894a56fa",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "CodeBook",
     "length_of_service": "3-6 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "ccf98d5b-1adf-498a-89be-0c46894a56fa",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "CodeBook",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "d13181ad-34b7-44d6-bdf2-ee50f1dc3624",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "ROS",
     "length_of_service": "3-6 months",
-    "current_position": "developer",
-
+    "current_role": "developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "d13181ad-34b7-44d6-bdf2-ee50f1dc3624",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "ROS",
     "length_of_service": "0-3 months",
-    "current_position": "developer",
-
+    "current_role": "developer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "d4f192f7-653b-4c85-893a-46757ae97fa1",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
     "current_employer": "Purple Bricks",
     "length_of_service": "3-6 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d4f192f7-653b-4c85-893a-46757ae97fa1",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
     "current_employer": "Purple Bricks",
     "length_of_service": "0-3 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d57763ed-44cf-4849-9264-ab25a790d905",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Morgan Stanley",
     "length_of_service": "3-6 months",
-    "current_position": "junior backend developer",
-
+    "current_role": "junior backend developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d57763ed-44cf-4849-9264-ab25a790d905",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
     "current_employer": "Morgan Stanley",
     "length_of_service": "0-3 months",
-    "current_position": "junior backend developer",
-
+    "current_role": "junior backend developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d6c561fe-5c01-4911-a107-30bb4b4a428f",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Talis",
     "length_of_service": "0-3 months",
-    "current_position": "Junior back end engineer",
-
+    "current_role": "Junior back end engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d8c83af2-88e1-440e-b626-91d678733bfa",
-    "timestamp": null,
+    "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
     "current_employer": "Bravissimo",
     "length_of_service": "0-3 months",
-    "current_position": "UI",
-
+    "current_role": "UI",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "3-6 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 3
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 3
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 4
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "6-12 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 3
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "6-12 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 25000,
-    "current_employer": "Wise",
-    "length_of_service": "3-6 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 1
-  },
-  {
-    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 23000,
-    "current_employer": "Wise",
-    "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 5
-  },
-  {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "Wise",
     "length_of_service": "18-24 months",
-    "current_position": "Backend Developer",
-
-    "job_satisfaction": 4
+    "current_role": "Backend Developer",
+    "job_satisfaction": 3
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "Wise",
-    "length_of_service": "12-18 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 4
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 3
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "Wise",
-    "length_of_service": "12-18 months",
-    "current_position": "Junior Backend Developer",
-
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 4
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Wise",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 1
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 3
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
     "current_employer": "Wise",
     "length_of_service": "6-12 months",
-    "current_position": "Junior Backend Developer",
-
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 5
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Wise",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Backend Developer",
-
-    "job_satisfaction": 5
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 1
   },
   {
-    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
-    "timestamp": null,
+    "graduate_uuid": "d9b3693c-32f0-4895-bd53-92e4743afd2b",
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
     "current_employer": "Wise",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Backend Developer",
-
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2021-04-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 43000,
+    "current_employer": "Wise",
+    "length_of_service": "18-24 months",
+    "current_role": "Backend Developer",
+    "job_satisfaction": 4
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2020-06-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 43000,
+    "current_employer": "Wise",
+    "length_of_service": "12-18 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 4
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2020-01-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 43000,
+    "current_employer": "Wise",
+    "length_of_service": "12-18 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 4
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2019-10-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 25000,
+    "current_employer": "Wise",
+    "length_of_service": "6-12 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 1
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2019-07-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 43000,
+    "current_employer": "Wise",
+    "length_of_service": "6-12 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2019-05-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 25000,
+    "current_employer": "Wise",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Backend Developer",
+    "job_satisfaction": 5
+  },
+  {
+    "graduate_uuid": "dced7843-6ac8-439d-ad6b-764254519526",
+    "timestamp": "2019-04-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 23000,
+    "current_employer": "Wise",
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Backend Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-04-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 21000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "0-3 months",
+    "current_role": "Junior Software Engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-06-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 25000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "3-6 months",
+    "current_role": "Junior Software Engineer",
     "job_satisfaction": 2
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
+    "timestamp": "2019-08-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 25000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "6-12 months",
+    "current_role": "Junior Software Engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2019-10-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 28000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "6-12 months",
+    "current_role": "Junior Software Engineer",
+    "job_satisfaction": 3
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2019-12-19T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 30000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "12-18 months",
+    "current_role": "Software Engineer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-02-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 32000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "18-24 months",
+    "current_role": "Software Engineer",
+    "job_satisfaction": 2
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
-    "timestamp": null,
-    "tech_role": null,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-05-28T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 38000,
+    "current_employer": "Bravissimo",
+    "length_of_service": "18-24 months",
+    "current_role": "Software Engineer",
+    "job_satisfaction": 1
   },
   {
     "graduate_uuid": "e3b0efbb-d8e0-43de-bec5-44887efafd77",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "3-6 months",
-    "current_position": "Data scientist",
-
+    "current_role": "Data scientist",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "e3b0efbb-d8e0-43de-bec5-44887efafd77",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
     "current_employer": "Santander",
     "length_of_service": "0-3 months",
-    "current_position": "Data scientist",
-
+    "current_role": "Data scientist",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "ec009998-e6fb-4bf8-81ce-187e5ab11cdd",
-    "timestamp": null,
+    "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 28000,
+    "current_salary": 30000,
     "current_employer": "Purple Bricks",
     "length_of_service": "3-6 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "ec009998-e6fb-4bf8-81ce-187e5ab11cdd",
-    "timestamp": null,
+    "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
     "current_employer": "Purple Bricks",
     "length_of_service": "0-3 months",
-    "current_position": "junior front end developer",
-
+    "current_role": "junior front end developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "ec218c6a-4774-4904-88f7-574e883a7391",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
     "current_employer": "CodeBook",
     "length_of_service": "0-3 months",
-    "current_position": "Front end engineer",
-
+    "current_role": "Front end engineer",
     "job_satisfaction": 5
   },
   {
     "graduate_uuid": "f076c142-187b-4fa8-a9c5-b27598da5b5a",
-    "timestamp": null,
+    "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 24500,
+    "current_salary": 28000,
     "current_employer": "TopStack",
     "length_of_service": "3-6 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f076c142-187b-4fa8-a9c5-b27598da5b5a",
-    "timestamp": null,
+    "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
     "current_employer": "TopStack",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f37f0f14-8b95-4b7b-80a4-ded4af5fa4c2",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-07-03T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 45000,
+    "current_employer": "The Economist",
+    "length_of_service": "12-18 months",
+    "current_role": "Software Developer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f37f0f14-8b95-4b7b-80a4-ded4af5fa4c2",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-04-03T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 30000,
+    "current_employer": "The Economist",
+    "length_of_service": "0-3 months",
+    "current_role": "junior front end developer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f8392a10-10ff-485c-9f82-6d0e8107d50b",
-    "timestamp": null,
+    "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
     "current_employer": "TopStack",
     "length_of_service": "0-3 months",
-    "current_position": "QA engineer",
-
+    "current_role": "QA engineer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f9971b06-307a-41eb-ab13-c439e34bf1de",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-12-09T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 45000,
+    "current_employer": "The Economist",
+    "length_of_service": "12-18 months",
+    "current_role": "Software Developer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "f9971b06-307a-41eb-ab13-c439e34bf1de",
-    "timestamp": null,
-    "tech_role": false,
-    "current_salary": null,
-    "current_employer": "",
-    "length_of_service": "",
-    "current_position": "",
-
-    "job_satisfaction": null
+    "timestamp": "2020-09-09T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 30000,
+    "current_employer": "The Economist",
+    "length_of_service": "0-3 months",
+    "current_role": "junior front end developer",
+    "job_satisfaction": 4
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
-    "current_salary": 30000,
+    "current_salary": 45000,
     "current_employer": "ClickTravel",
     "length_of_service": "18-24 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2020-06-27T00:00:00.000Z",
+    "tech_role": true,
+    "current_salary": 45000,
+    "current_employer": "ClickTravel",
+    "length_of_service": "12-18 months",
+    "current_role": "Software Developer",
+    "job_satisfaction": 1
+  },
+  {
+    "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
+    "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "12-18 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 1
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
-    "tech_role": true,
-    "current_salary": 30000,
-    "current_employer": "ClickTravel",
-    "length_of_service": "12-18 months",
-    "current_position": "Software Developer",
-
-    "job_satisfaction": 1
-  },
-  {
-    "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 3
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "6-12 months",
-    "current_position": "Software Developer",
-
+    "current_role": "Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
     "current_employer": "ClickTravel",
     "length_of_service": "3-6 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 4
   },
   {
     "graduate_uuid": "fe693025-ba23-4068-a849-d4b5a96dc146",
-    "timestamp": null,
+    "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
     "current_employer": "ClickTravel",
     "length_of_service": "0-3 months",
-    "current_position": "Junior Software Developer",
-
+    "current_role": "Junior Software Developer",
     "job_satisfaction": 3
   }
  ]
- 
- 
