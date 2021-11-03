@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+const cors = require("cors");
 
 const {
   getAllGraduates,
@@ -14,6 +15,8 @@ const {
   getResponsesByGraduateUuid,
   postNewResponse,
 } = require("../models/responses");
+
+router.options("/", cors());
 
 router.get("/:id", async (req, res) => {
   console.log(req.params);
