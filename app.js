@@ -5,25 +5,10 @@ const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 const cors = require("cors");
 
-<<<<<<< HEAD
 const responsesRouter = require("./routes/responses");
 const graduatesRouter = require("./routes/graduates");
 const partnersRouter = require("./routes/partners");
 const technologiesRouter = require("./routes/technologies");
-=======
-const sgMail = require("@sendgrid/mail");
-const API_KEY =
-  "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";
-const message = require("./emails/index");
-console.log(message);
-sgMail.setApiKey(API_KEY);
-
-var indexRouter = require("./routes/index");
-var usersRouter = require("./routes/users");
-var responsesRouter = require("./routes/responses");
-var graduatesRouter = require("./routes/graduates");
-var partnersRouter = require("./routes/partners");
->>>>>>> email
 
 const app = express();
 
