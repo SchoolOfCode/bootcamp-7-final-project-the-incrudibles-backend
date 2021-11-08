@@ -3,8 +3,8 @@ const API_KEY = "SG.C1v5mHifSsOHSanwNn5deg.hgVjvM-Fxx25Z-H-ybNkEgMPz0Ru0B9R7_uN8
 sgMail.setApiKey(API_KEY);
 
 const graduateemail = "himeshpatel@live.co.uk"
-const id = "9960760f-b212-49b4-b973-331d5be32da8"
-const name = "himesh"
+const id = "ee84e534-0e3b-4d92-8c55-0b626b7a7b46"
+const name = "Himesh"
 
 /*
 const message = {
@@ -38,4 +38,3 @@ sgMail
     console.log("Email has been sent!");
   })
   .catch((error) => console.log(error.message));
-
