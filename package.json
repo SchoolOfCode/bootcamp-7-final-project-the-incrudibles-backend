@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node -r dotenv/config ./bin/www",
+    "test": "jest --setupFiles dotenv/config",
     "createGraduatesTable": "node -r dotenv/config ./db/scripts/createGraduatesTable.js",
     "dropGraduatesTable": "node -r dotenv/config ./db/scripts/dropGraduatesTable.js",
     "populateGraduatesTable": "node -r dotenv/config ./db/scripts/populateGraduatesTable.js",
@@ -36,5 +37,7 @@
     "morgan": "~1.9.1",
     "pg": "^8.7.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
