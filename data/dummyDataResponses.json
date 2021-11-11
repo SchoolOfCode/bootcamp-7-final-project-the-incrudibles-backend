@@ -4,7 +4,7 @@
     "timestamp": "2021-10-01T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 18000,
-    "current_employer": "Gymshark",
+    "current_employer": "InGen",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 2
@@ -34,7 +34,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -44,7 +44,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "0-3 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -54,7 +54,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "3-6 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -64,7 +64,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -74,7 +74,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "3-6 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -84,7 +84,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "0-3 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -94,7 +94,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 5
@@ -104,7 +104,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 1
@@ -114,7 +114,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "3-6 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 4
@@ -124,7 +124,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 4
@@ -144,7 +144,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -154,7 +154,7 @@
     "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 49000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "18-24 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 1
@@ -164,7 +164,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 1
@@ -174,7 +174,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 3
@@ -184,7 +184,7 @@
     "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 4
@@ -194,7 +194,7 @@
     "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 3
@@ -204,7 +204,7 @@
     "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "3-6 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 2
@@ -214,7 +214,7 @@
     "timestamp": "2019-03-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "0-3 months",
     "current_position": "Junior Frontend Developer",
     "job_satisfaction": 3
@@ -224,7 +224,7 @@
     "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "18-24 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -234,7 +234,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "0-3 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -244,7 +244,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "0-3 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -254,7 +254,7 @@
     "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -264,7 +264,7 @@
     "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -294,7 +294,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 52000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "18-24 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -304,7 +304,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "12-18 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 4
@@ -314,7 +314,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "12-18 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 4
@@ -324,7 +324,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 5
@@ -334,7 +334,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 3
@@ -344,7 +344,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "3-6 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 3
@@ -354,7 +354,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "0-3 months",
     "current_position": "QA Tester",
     "job_satisfaction": 4
@@ -364,7 +364,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -384,7 +384,7 @@
     "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 46000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -394,7 +394,7 @@
     "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "12-18 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -404,7 +404,7 @@
     "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "12-18 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 3
@@ -414,7 +414,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -424,7 +424,7 @@
     "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 1
@@ -434,7 +434,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "3-6 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 1
@@ -444,7 +444,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -454,7 +454,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "0-3 months",
     "current_position": "Assistant Project Manager",
     "job_satisfaction": 2
@@ -464,7 +464,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "Junior full stack developer",
     "job_satisfaction": 5
@@ -474,7 +474,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "3-6 months",
     "current_position": "UI",
     "job_satisfaction": 4
@@ -484,7 +484,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UI",
     "job_satisfaction": 4
@@ -494,7 +494,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "UI Designer",
     "job_satisfaction": 3
@@ -504,7 +504,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "UI Designer",
     "job_satisfaction": 3
@@ -514,7 +514,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "User research",
     "job_satisfaction": 3
@@ -524,7 +524,7 @@
     "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "18-24 months",
     "current_position": "QA Tester",
     "job_satisfaction": 5
@@ -534,7 +534,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "12-18 months",
     "current_position": "QA Tester",
     "job_satisfaction": 5
@@ -544,7 +544,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "12-18 months",
     "current_position": "QA Tester",
     "job_satisfaction": 5
@@ -554,7 +554,7 @@
     "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "6-12 months",
     "current_position": "QA Tester",
     "job_satisfaction": 4
@@ -564,7 +564,7 @@
     "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "6-12 months",
     "current_position": "QA Tester",
     "job_satisfaction": 3
@@ -574,7 +574,7 @@
     "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "3-6 months",
     "current_position": "QA Tester",
     "job_satisfaction": 4
@@ -594,7 +594,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 32000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "QA engineer",
     "job_satisfaction": 2
@@ -604,7 +604,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "QA engineer",
     "job_satisfaction": 2
@@ -644,7 +644,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "3-6 months",
     "current_position": "User experience",
     "job_satisfaction": 2
@@ -664,7 +664,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -684,7 +684,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "UI Designer",
     "job_satisfaction": 3
@@ -694,7 +694,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "3-6 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -704,7 +704,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -714,7 +714,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "3-6 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -724,7 +724,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "0-3 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -754,7 +754,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "3-6 months",
     "current_position": "UX",
     "job_satisfaction": 5
@@ -764,7 +764,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UX",
     "job_satisfaction": 5
@@ -774,7 +774,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "Gymshark",
+    "current_employer": "InGen",
     "length_of_service": "3-6 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 2
@@ -784,7 +784,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Gymshark",
+    "current_employer": "InGen",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 2
@@ -794,7 +794,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 3
@@ -804,7 +804,7 @@
     "timestamp": "2020-07-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 3
@@ -814,7 +814,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "12-18 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 1
@@ -824,7 +824,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "12-18 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 3
@@ -834,7 +834,7 @@
     "timestamp": "2019-12-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 3
@@ -844,7 +844,7 @@
     "timestamp": "2019-10-15T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 1
@@ -854,7 +854,7 @@
     "timestamp": "2019-07-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 5
@@ -914,7 +914,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 4
@@ -934,7 +934,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "3-6 months",
     "current_position": "Junior Frontend Developer",
     "job_satisfaction": 1
@@ -944,7 +944,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23500,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "Junior Frontend Developer",
     "job_satisfaction": 3
@@ -954,7 +954,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "0-3 months",
     "current_position": "Assistant Project Manager",
     "job_satisfaction": 2
@@ -964,7 +964,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "User research",
     "job_satisfaction": 3
@@ -974,7 +974,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "User research",
     "job_satisfaction": 3
@@ -984,7 +984,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 4
@@ -1004,7 +1004,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "3-6 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 5
@@ -1014,7 +1014,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 5
@@ -1024,7 +1024,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "12-18 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 5
@@ -1034,7 +1034,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 2
@@ -1044,7 +1044,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 4
@@ -1054,7 +1054,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "3-6 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 1
@@ -1064,7 +1064,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "18-24 months",
     "current_position": "Junior Frontend Developer",
     "job_satisfaction": 3
@@ -1074,7 +1074,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UX",
     "job_satisfaction": 5
@@ -1084,7 +1084,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UX",
     "job_satisfaction": 5
@@ -1094,7 +1094,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "0-3 months",
     "current_position": "Junior Product Owner",
     "job_satisfaction": 3
@@ -1134,7 +1134,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "6-12 months",
     "current_position": "QA Tester",
     "job_satisfaction": 1
@@ -1154,7 +1154,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "3-6 months",
     "current_position": "QA Tester",
     "job_satisfaction": 1
@@ -1164,7 +1164,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "DRP",
+    "current_employer": "Qvomedia",
     "length_of_service": "0-3 months",
     "current_position": "QA Tester",
     "job_satisfaction": 5
@@ -1174,7 +1174,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "Data scientist",
     "job_satisfaction": 4
@@ -1184,7 +1184,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Data scientist",
     "job_satisfaction": 4
@@ -1194,7 +1194,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 31000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "3-6 months",
     "current_position": "Junior full stack developer",
     "job_satisfaction": 5
@@ -1204,7 +1204,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "Junior full stack developer",
     "job_satisfaction": 5
@@ -1224,7 +1224,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "3-6 months",
     "current_position": "Developer",
     "job_satisfaction": 3
@@ -1234,7 +1234,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "0-3 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 3
@@ -1244,7 +1244,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "0-3 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 4
@@ -1254,7 +1254,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "6-12 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 3
@@ -1264,7 +1264,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "6-12 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 2
@@ -1274,7 +1274,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Software Dev",
     "job_satisfaction": 4
@@ -1284,7 +1284,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 52000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Software Dev",
     "job_satisfaction": 5
@@ -1324,7 +1324,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 41000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "User research",
     "job_satisfaction": 3
@@ -1334,7 +1334,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "User research",
     "job_satisfaction": 3
@@ -1344,7 +1344,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "18-24 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 4
@@ -1354,7 +1354,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 4
@@ -1364,7 +1364,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 2
@@ -1374,7 +1374,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 1
@@ -1384,7 +1384,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 32000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "6-12 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 5
@@ -1394,7 +1394,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 4
@@ -1404,7 +1404,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "GymShark",
+    "current_employer": "InGen",
     "length_of_service": "12-18 months",
     "current_position": "Frontend Developer",
     "job_satisfaction": 5
@@ -1414,7 +1414,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 3
@@ -1424,7 +1424,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "3-6 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 3
@@ -1434,7 +1434,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "6-12 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 2
@@ -1444,7 +1444,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "12-18 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 5
@@ -1454,7 +1454,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 32000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "18-24 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 5
@@ -1464,7 +1464,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "18-24 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 5
@@ -1474,7 +1474,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "0-3 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 2
@@ -1484,7 +1484,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Sainsbury's",
+    "current_employer": "Alphacore Software",
     "length_of_service": "0-3 months",
     "current_position": "Junior dev",
     "job_satisfaction": 2
@@ -1534,7 +1534,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "3-6 months",
     "current_position": "Junior Product Owner",
     "job_satisfaction": 3
@@ -1544,7 +1544,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "0-3 months",
     "current_position": "Junior Product Owner",
     "job_satisfaction": 3
@@ -1554,7 +1554,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Sainsbury's",
+    "current_employer": "Alphacore Software",
     "length_of_service": "0-3 months",
     "current_position": "Junior dev",
     "job_satisfaction": 2
@@ -1644,7 +1644,7 @@
     "timestamp": "2020-12-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 40000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "3-6 months",
     "current_position": "QA engineer",
     "job_satisfaction": 2
@@ -1654,7 +1654,7 @@
     "timestamp": "2020-09-08T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "QA engineer",
     "job_satisfaction": 2
@@ -1664,7 +1664,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 28000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 1
@@ -1674,7 +1674,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 29000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 1
@@ -1684,7 +1684,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 31000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 4
@@ -1694,7 +1694,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 39000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "12-18 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 1
@@ -1704,7 +1704,7 @@
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 46000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "DevOps Engineer",
     "job_satisfaction": 4
@@ -1714,7 +1714,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 56000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "DevOps Engineer",
     "job_satisfaction": 5
@@ -1724,7 +1724,7 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 56000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "DevOps Engineer",
     "job_satisfaction": 4
@@ -1734,7 +1734,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Data scientist",
     "job_satisfaction": 4
@@ -1744,7 +1744,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "Junior full stack developer",
     "job_satisfaction": 5
@@ -1754,7 +1754,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 56000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "DevOps Engineer",
     "job_satisfaction": 5
@@ -1764,7 +1764,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": false,
     "current_salary": 56000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "18-24 months",
     "current_position": "DevOps Engineer",
     "job_satisfaction": 4
@@ -1774,7 +1774,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "UI",
     "job_satisfaction": 4
@@ -1784,7 +1784,7 @@
     "timestamp": "2021-03-04T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UI",
     "job_satisfaction": 4
@@ -1794,7 +1794,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "QA engineer",
     "job_satisfaction": 2
@@ -1804,7 +1804,7 @@
     "timestamp": "2021-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -1894,7 +1894,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "3-6 months",
     "current_position": "User experience",
     "job_satisfaction": 2
@@ -1904,7 +1904,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "User experience",
     "job_satisfaction": 2
@@ -1914,7 +1914,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Sainsbury's",
+    "current_employer": "Alphacore Software",
     "length_of_service": "3-6 months",
     "current_position": "Junior dev",
     "job_satisfaction": 2
@@ -1924,7 +1924,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Sainsbury's",
+    "current_employer": "Alphacore Software",
     "length_of_service": "0-3 months",
     "current_position": "Junior dev",
     "job_satisfaction": 2
@@ -1934,7 +1934,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Natwest",
+    "current_employer": "Green-Plus",
     "length_of_service": "0-3 months",
     "current_position": "Junior Product Owner",
     "job_satisfaction": 3
@@ -1954,7 +1954,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -1964,7 +1964,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "3-6 months",
     "current_position": "UI Designer",
     "job_satisfaction": 3
@@ -1974,7 +1974,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "OAG",
+    "current_employer": "Betatech",
     "length_of_service": "0-3 months",
     "current_position": "UI Designer",
     "job_satisfaction": 3
@@ -1984,7 +1984,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Sainsbury's",
+    "current_employer": "Alphacore Software",
     "length_of_service": "0-3 months",
     "current_position": "Junior dev",
     "job_satisfaction": 2
@@ -1994,7 +1994,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 18000,
-    "current_employer": "Gymshark",
+    "current_employer": "InGen",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 2
@@ -2004,7 +2004,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 4
@@ -2014,7 +2014,7 @@
     "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 39000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Developer",
     "job_satisfaction": 4
@@ -2024,7 +2024,7 @@
     "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Developer",
     "job_satisfaction": 4
@@ -2034,7 +2034,7 @@
     "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "12-18 months",
     "current_position": "Developer",
     "job_satisfaction": 5
@@ -2044,7 +2044,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 2
@@ -2054,7 +2054,7 @@
     "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "6-12 months",
     "current_position": "Developer",
     "job_satisfaction": 2
@@ -2064,7 +2064,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 2
@@ -2074,7 +2074,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24500,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Junior Developer",
     "job_satisfaction": 4
@@ -2084,7 +2084,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 32000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "3-6 months",
     "current_position": "Assistant Project Manager",
     "job_satisfaction": 2
@@ -2094,7 +2094,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "JLR",
+    "current_employer": "Goldentech.io",
     "length_of_service": "0-3 months",
     "current_position": "Assistant Project Manager",
     "job_satisfaction": 2
@@ -2134,7 +2134,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UX",
     "job_satisfaction": 5
@@ -2174,7 +2174,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "3-6 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -2184,7 +2184,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -2214,7 +2214,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "Purple Bricks",
+    "current_employer": "Solcode",
     "length_of_service": "3-6 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -2224,7 +2224,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 29000,
-    "current_employer": "Purple Bricks",
+    "current_employer": "Solcode",
     "length_of_service": "0-3 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -2234,7 +2234,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Morgan Stanley",
+    "current_employer": "JSTP",
     "length_of_service": "3-6 months",
     "current_position": "junior backend developer",
     "job_satisfaction": 4
@@ -2244,7 +2244,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 22000,
-    "current_employer": "Morgan Stanley",
+    "current_employer": "JSTP",
     "length_of_service": "0-3 months",
     "current_position": "junior backend developer",
     "job_satisfaction": 4
@@ -2254,7 +2254,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Talis",
+    "current_employer": "Zaphouse",
     "length_of_service": "0-3 months",
     "current_position": "Junior back end engineer",
     "job_satisfaction": 4
@@ -2264,7 +2264,7 @@
     "timestamp": "2021-10-02T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 24000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "UI",
     "job_satisfaction": 4
@@ -2274,7 +2274,7 @@
     "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 3
@@ -2284,7 +2284,7 @@
     "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 3
@@ -2294,7 +2294,7 @@
     "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 4
@@ -2304,7 +2304,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "6-12 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 3
@@ -2314,7 +2314,7 @@
     "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "6-12 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -2324,7 +2324,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "3-6 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 1
@@ -2334,7 +2334,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -2344,7 +2344,7 @@
     "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "18-24 months",
     "current_position": "Backend Developer",
     "job_satisfaction": 4
@@ -2354,7 +2354,7 @@
     "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "12-18 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 4
@@ -2364,7 +2364,7 @@
     "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "12-18 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 4
@@ -2374,7 +2374,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "6-12 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 1
@@ -2384,7 +2384,7 @@
     "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 43000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "6-12 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -2394,7 +2394,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "3-6 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 5
@@ -2404,7 +2404,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 23000,
-    "current_employer": "Wise",
+    "current_employer": "Opentech",
     "length_of_service": "0-3 months",
     "current_position": "Junior Backend Developer",
     "job_satisfaction": 4
@@ -2414,7 +2414,7 @@
     "timestamp": "2019-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 21000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "0-3 months",
     "current_position": "Junior Software Engineer",
     "job_satisfaction": 2
@@ -2424,7 +2424,7 @@
     "timestamp": "2019-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "3-6 months",
     "current_position": "Junior Software Engineer",
     "job_satisfaction": 2
@@ -2434,7 +2434,7 @@
     "timestamp": "2019-08-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "6-12 months",
     "current_position": "Junior Software Engineer",
     "job_satisfaction": 5
@@ -2442,19 +2442,19 @@
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
     "timestamp": "2019-10-19T00:00:00.000Z",
-    "tech_role": true,
-    "current_salary": 28000,
-    "current_employer": "Bravissimo",
-    "length_of_service": "6-12 months",
-    "current_position": "Junior Software Engineer",
-    "job_satisfaction": 3
+    "tech_role": false,
+    "current_salary": null,
+    "current_employer": null,
+    "length_of_service": null,
+    "current_position": null,
+    "job_satisfaction": null
   },
   {
     "graduate_uuid": "e0e60d46-d8a0-4dca-8970-13f835e2af40",
     "timestamp": "2019-12-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "12-18 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 4
@@ -2464,7 +2464,7 @@
     "timestamp": "2020-02-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 32000,
-    "current_employer": "Bravissimo",
+    "current_employer": "ZonCode",
     "length_of_service": "18-24 months",
     "current_position": "Software Engineer",
     "job_satisfaction": 2
@@ -2474,17 +2474,17 @@
     "timestamp": "2020-05-28T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 38000,
-    "current_employer": "Bravissimo",
-    "length_of_service": "18-24 months",
+    "current_employer": "ZonCode",
+    "length_of_service": "3-6 months",
     "current_position": "Software Engineer",
-    "job_satisfaction": 1
+    "job_satisfaction": 5
   },
   {
     "graduate_uuid": "e3b0efbb-d8e0-43de-bec5-44887efafd77",
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "3-6 months",
     "current_position": "Data scientist",
     "job_satisfaction": 4
@@ -2494,7 +2494,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 35000,
-    "current_employer": "Santander",
+    "current_employer": "Damtechno Ltd",
     "length_of_service": "0-3 months",
     "current_position": "Data scientist",
     "job_satisfaction": 4
@@ -2504,7 +2504,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "Purple Bricks",
+    "current_employer": "Solcode",
     "length_of_service": "3-6 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 3
@@ -2514,7 +2514,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 25000,
-    "current_employer": "Purple Bricks",
+    "current_employer": "Solcode",
     "length_of_service": "0-3 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 3
@@ -2524,7 +2524,7 @@
     "timestamp": "2021-11-25T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 28000,
-    "current_employer": "CodeBook",
+    "current_employer": "SingleBase Inc.",
     "length_of_service": "0-3 months",
     "current_position": "Front end engineer",
     "job_satisfaction": 5
@@ -2554,7 +2554,7 @@
     "timestamp": "2020-07-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "12-18 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -2564,7 +2564,7 @@
     "timestamp": "2020-04-03T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "0-3 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -2584,7 +2584,7 @@
     "timestamp": "2020-12-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "12-18 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -2594,7 +2594,7 @@
     "timestamp": "2020-09-09T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "The Economist",
+    "current_employer": "Bluecone",
     "length_of_service": "0-3 months",
     "current_position": "junior front end developer",
     "job_satisfaction": 4
@@ -2604,7 +2604,7 @@
     "timestamp": "2021-04-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "18-24 months",
     "current_position": "Software Developer",
     "job_satisfaction": 1
@@ -2614,7 +2614,7 @@
     "timestamp": "2020-06-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 45000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "12-18 months",
     "current_position": "Software Developer",
     "job_satisfaction": 1
@@ -2624,7 +2624,7 @@
     "timestamp": "2020-01-27T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "12-18 months",
     "current_position": "Software Developer",
     "job_satisfaction": 1
@@ -2634,7 +2634,7 @@
     "timestamp": "2019-10-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Software Developer",
     "job_satisfaction": 3
@@ -2644,7 +2644,7 @@
     "timestamp": "2019-07-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "6-12 months",
     "current_position": "Software Developer",
     "job_satisfaction": 4
@@ -2654,7 +2654,7 @@
     "timestamp": "2019-05-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 30000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "3-6 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 4
@@ -2664,7 +2664,7 @@
     "timestamp": "2019-04-19T00:00:00.000Z",
     "tech_role": true,
     "current_salary": 26000,
-    "current_employer": "ClickTravel",
+    "current_employer": "Mediajob Corp.",
     "length_of_service": "0-3 months",
     "current_position": "Junior Software Developer",
     "job_satisfaction": 3
